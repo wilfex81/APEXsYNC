@@ -1,3 +1,5 @@
+# single look up point that keeps the analytics engine decoupled from tax logic entirely
+
 from datetime import date
 from .models import TaxRuleSet
 
