@@ -1,0 +1,290 @@
+[
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2024-01-01",
+    "type": "inflow",
+    "amount": 153973.71
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2024-01-01",
+    "type": "outflow",
+    "amount": 124371.65
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2024-01-01",
+    "type": "inflow",
+    "amount": 161024.7
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2024-01-01",
+    "type": "outflow",
+    "amount": 123282.29
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2024-03-01",
+    "type": "inflow",
+    "amount": 176417.47
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2024-03-01",
+    "type": "outflow",
+    "amount": 141424.84
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2024-03-01",
+    "type": "inflow",
+    "amount": 187355.01
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2024-03-01",
+    "type": "outflow",
+    "amount": 130233.56
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2024-04-01",
+    "type": "inflow",
+    "amount": 171422.69
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2024-04-01",
+    "type": "outflow",
+    "amount": 126896.93
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2024-05-01",
+    "type": "inflow",
+    "amount": 164790.58
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2024-05-01",
+    "type": "outflow",
+    "amount": 133453.82
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2024-06-01",
+    "type": "inflow",
+    "amount": 170345.15
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2024-06-01",
+    "type": "outflow",
+    "amount": 111862.69
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2024-07-01",
+    "type": "inflow",
+    "amount": 155691.63
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2024-07-01",
+    "type": "outflow",
+    "amount": 101824.76
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2024-08-01",
+    "type": "inflow",
+    "amount": 141312.03
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2024-08-01",
+    "type": "outflow",
+    "amount": 99232.92
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2024-09-01",
+    "type": "inflow",
+    "amount": 150410.97
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2024-09-01",
+    "type": "outflow",
+    "amount": 100917.49
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2024-10-01",
+    "type": "inflow",
+    "amount": 149067.24
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2024-10-01",
+    "type": "outflow",
+    "amount": 107084.19
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2024-11-01",
+    "type": "inflow",
+    "amount": 160008.66
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2024-11-01",
+    "type": "outflow",
+    "amount": 132420.97
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2024-12-01",
+    "type": "inflow",
+    "amount": 178201.2
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2024-12-01",
+    "type": "outflow",
+    "amount": 121565.45
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2025-01-01",
+    "type": "inflow",
+    "amount": 171919.17
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2025-01-01",
+    "type": "outflow",
+    "amount": 114326.33
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2025-02-01",
+    "type": "inflow",
+    "amount": 180130.17
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2025-02-01",
+    "type": "outflow",
+    "amount": 151015.16
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2025-03-01",
+    "type": "inflow",
+    "amount": 190433.87
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2025-03-01",
+    "type": "outflow",
+    "amount": 161032.47
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2025-04-01",
+    "type": "inflow",
+    "amount": 182345.2
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2025-04-01",
+    "type": "outflow",
+    "amount": 130849.11
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2025-05-01",
+    "type": "inflow",
+    "amount": 184802.53
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2025-05-01",
+    "type": "outflow",
+    "amount": 156537.95
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2025-06-01",
+    "type": "inflow",
+    "amount": 166072.13
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2025-06-01",
+    "type": "outflow",
+    "amount": 137614.88
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2025-07-01",
+    "type": "inflow",
+    "amount": 155405.65
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2025-07-01",
+    "type": "outflow",
+    "amount": 122910.47
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2025-08-01",
+    "type": "inflow",
+    "amount": 176554.42
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2025-08-01",
+    "type": "outflow",
+    "amount": 129990.78
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2025-09-01",
+    "type": "inflow",
+    "amount": 166957.82
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2025-09-01",
+    "type": "outflow",
+    "amount": 130348.49
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2025-10-01",
+    "type": "inflow",
+    "amount": 178409.42
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2025-10-01",
+    "type": "outflow",
+    "amount": 137636.36
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2025-11-01",
+    "type": "inflow",
+    "amount": 178602.01
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "date": "2025-11-01",
+    "type": "outflow",
+    "amount": 131601.12
+  }
+]

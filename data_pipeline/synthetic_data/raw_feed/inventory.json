@@ -1,0 +1,7682 @@
+[
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0001",
+    "date": "2024-01-01",
+    "qty": 68,
+    "unit_cost": 98.98,
+    "turnover_rate": 1.123
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0001",
+    "date": "2024-01-01",
+    "qty": 78,
+    "unit_cost": 98.98,
+    "turnover_rate": 1.985
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0001",
+    "date": "2024-03-01",
+    "qty": 59,
+    "unit_cost": 98.98,
+    "turnover_rate": 2.027
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0001",
+    "date": "2024-03-01",
+    "qty": 82,
+    "unit_cost": 98.98,
+    "turnover_rate": 2.041
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0001",
+    "date": "2024-04-01",
+    "qty": 67,
+    "unit_cost": 98.98,
+    "turnover_rate": 1.251
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0001",
+    "date": "2024-05-01",
+    "qty": 72,
+    "unit_cost": 98.98,
+    "turnover_rate": 1.279
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0001",
+    "date": "2024-06-01",
+    "qty": 67,
+    "unit_cost": 98.98,
+    "turnover_rate": 1.204
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0001",
+    "date": "2024-07-01",
+    "qty": 104,
+    "unit_cost": 98.98,
+    "turnover_rate": 0.884
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0001",
+    "date": "2024-08-01",
+    "qty": 76,
+    "unit_cost": 98.98,
+    "turnover_rate": 1.772
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0001",
+    "date": "2024-09-01",
+    "qty": 61,
+    "unit_cost": 98.98,
+    "turnover_rate": 2.228
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0001",
+    "date": "2024-10-01",
+    "qty": 89,
+    "unit_cost": 98.98,
+    "turnover_rate": 1.061
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0001",
+    "date": "2024-11-01",
+    "qty": 58,
+    "unit_cost": 98.98,
+    "turnover_rate": 1.413
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0001",
+    "date": "2024-12-01",
+    "qty": 80,
+    "unit_cost": 98.98,
+    "turnover_rate": 1.527
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0001",
+    "date": "2025-01-01",
+    "qty": 47,
+    "unit_cost": 98.98,
+    "turnover_rate": 1.301
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0001",
+    "date": "2025-02-01",
+    "qty": 57,
+    "unit_cost": 98.98,
+    "turnover_rate": 1.925
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0001",
+    "date": "2025-03-01",
+    "qty": 79,
+    "unit_cost": 98.98,
+    "turnover_rate": 1.82
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0001",
+    "date": "2025-04-01",
+    "qty": 88,
+    "unit_cost": 98.98,
+    "turnover_rate": 1.139
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0001",
+    "date": "2025-05-01",
+    "qty": 79,
+    "unit_cost": 98.98,
+    "turnover_rate": 0.844
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0001",
+    "date": "2025-06-01",
+    "qty": 75,
+    "unit_cost": 98.98,
+    "turnover_rate": 1.09
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0001",
+    "date": "2025-07-01",
+    "qty": 72,
+    "unit_cost": 98.98,
+    "turnover_rate": 1.296
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0001",
+    "date": "2025-08-01",
+    "qty": 54,
+    "unit_cost": 98.98,
+    "turnover_rate": 0.939
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0001",
+    "date": "2025-09-01",
+    "qty": 66,
+    "unit_cost": 98.98,
+    "turnover_rate": 2.234
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0001",
+    "date": "2025-10-01",
+    "qty": 70,
+    "unit_cost": 98.98,
+    "turnover_rate": 1.324
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0001",
+    "date": "2025-11-01",
+    "qty": 92,
+    "unit_cost": 98.98,
+    "turnover_rate": 1.476
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0002",
+    "date": "2024-01-01",
+    "qty": 305,
+    "unit_cost": 718.0,
+    "turnover_rate": 1.891
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0002",
+    "date": "2024-01-01",
+    "qty": 273,
+    "unit_cost": 718.0,
+    "turnover_rate": 1.459
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0002",
+    "date": "2024-03-01",
+    "qty": 304,
+    "unit_cost": 718.0,
+    "turnover_rate": 1.431
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0002",
+    "date": "2024-03-01",
+    "qty": 294,
+    "unit_cost": 718.0,
+    "turnover_rate": 1.448
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0002",
+    "date": "2024-04-01",
+    "qty": 289,
+    "unit_cost": 718.0,
+    "turnover_rate": 1.117
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0002",
+    "date": "2024-05-01",
+    "qty": 309,
+    "unit_cost": 718.0,
+    "turnover_rate": 0.876
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0002",
+    "date": "2024-06-01",
+    "qty": 315,
+    "unit_cost": 718.0,
+    "turnover_rate": 1.548
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0002",
+    "date": "2024-07-01",
+    "qty": 313,
+    "unit_cost": 718.0,
+    "turnover_rate": 1.248
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0002",
+    "date": "2024-08-01",
+    "qty": 287,
+    "unit_cost": 718.0,
+    "turnover_rate": 2.223
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0002",
+    "date": "2024-09-01",
+    "qty": 295,
+    "unit_cost": 718.0,
+    "turnover_rate": 1.759
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0002",
+    "date": "2024-10-01",
+    "qty": 304,
+    "unit_cost": 718.0,
+    "turnover_rate": 1.057
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0002",
+    "date": "2024-11-01",
+    "qty": 314,
+    "unit_cost": 718.0,
+    "turnover_rate": 1.984
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0002",
+    "date": "2024-12-01",
+    "qty": 292,
+    "unit_cost": 718.0,
+    "turnover_rate": 0.964
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0002",
+    "date": "2025-01-01",
+    "qty": 297,
+    "unit_cost": 718.0,
+    "turnover_rate": 1.936
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0002",
+    "date": "2025-02-01",
+    "qty": 283,
+    "unit_cost": 718.0,
+    "turnover_rate": 2.174
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0002",
+    "date": "2025-03-01",
+    "qty": 282,
+    "unit_cost": 718.0,
+    "turnover_rate": 1.504
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0002",
+    "date": "2025-04-01",
+    "qty": 312,
+    "unit_cost": 718.0,
+    "turnover_rate": 2.086
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0002",
+    "date": "2025-05-01",
+    "qty": 320,
+    "unit_cost": 718.0,
+    "turnover_rate": 1.187
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0002",
+    "date": "2025-06-01",
+    "qty": 298,
+    "unit_cost": 718.0,
+    "turnover_rate": 0.904
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0002",
+    "date": "2025-07-01",
+    "qty": 315,
+    "unit_cost": 718.0,
+    "turnover_rate": 1.458
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0002",
+    "date": "2025-08-01",
+    "qty": 305,
+    "unit_cost": 718.0,
+    "turnover_rate": 1.688
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0002",
+    "date": "2025-09-01",
+    "qty": 290,
+    "unit_cost": 718.0,
+    "turnover_rate": 2.442
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0002",
+    "date": "2025-10-01",
+    "qty": 305,
+    "unit_cost": 718.0,
+    "turnover_rate": 1.968
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0002",
+    "date": "2025-11-01",
+    "qty": 323,
+    "unit_cost": 718.0,
+    "turnover_rate": 2.392
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0003",
+    "date": "2024-01-01",
+    "qty": 342,
+    "unit_cost": 707.69,
+    "turnover_rate": 0.934
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0003",
+    "date": "2024-01-01",
+    "qty": 366,
+    "unit_cost": 707.69,
+    "turnover_rate": 2.335
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0003",
+    "date": "2024-03-01",
+    "qty": 303,
+    "unit_cost": 707.69,
+    "turnover_rate": 2.014
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0003",
+    "date": "2024-03-01",
+    "qty": 355,
+    "unit_cost": 707.69,
+    "turnover_rate": 1.654
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0003",
+    "date": "2024-04-01",
+    "qty": 344,
+    "unit_cost": 707.69,
+    "turnover_rate": 2.331
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0003",
+    "date": "2024-05-01",
+    "qty": 338,
+    "unit_cost": 707.69,
+    "turnover_rate": 2.161
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0003",
+    "date": "2024-06-01",
+    "qty": 344,
+    "unit_cost": 707.69,
+    "turnover_rate": 1.952
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0003",
+    "date": "2024-07-01",
+    "qty": 313,
+    "unit_cost": 707.69,
+    "turnover_rate": 1.854
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0003",
+    "date": "2024-08-01",
+    "qty": 339,
+    "unit_cost": 707.69,
+    "turnover_rate": 1.004
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0003",
+    "date": "2024-09-01",
+    "qty": 348,
+    "unit_cost": 707.69,
+    "turnover_rate": 2.087
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0003",
+    "date": "2024-10-01",
+    "qty": 365,
+    "unit_cost": 707.69,
+    "turnover_rate": 1.094
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0003",
+    "date": "2024-11-01",
+    "qty": 335,
+    "unit_cost": 707.69,
+    "turnover_rate": 2.473
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0003",
+    "date": "2024-12-01",
+    "qty": 330,
+    "unit_cost": 707.69,
+    "turnover_rate": 2.453
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0003",
+    "date": "2025-01-01",
+    "qty": 335,
+    "unit_cost": 707.69,
+    "turnover_rate": 2.174
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0003",
+    "date": "2025-02-01",
+    "qty": 356,
+    "unit_cost": 707.69,
+    "turnover_rate": 1.015
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0003",
+    "date": "2025-03-01",
+    "qty": 347,
+    "unit_cost": 707.69,
+    "turnover_rate": 1.52
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0003",
+    "date": "2025-04-01",
+    "qty": 335,
+    "unit_cost": 707.69,
+    "turnover_rate": 2.48
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0003",
+    "date": "2025-05-01",
+    "qty": 350,
+    "unit_cost": 707.69,
+    "turnover_rate": 1.54
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0003",
+    "date": "2025-06-01",
+    "qty": 344,
+    "unit_cost": 707.69,
+    "turnover_rate": 2.495
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0003",
+    "date": "2025-07-01",
+    "qty": 357,
+    "unit_cost": 707.69,
+    "turnover_rate": 1.866
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0003",
+    "date": "2025-08-01",
+    "qty": 332,
+    "unit_cost": 707.69,
+    "turnover_rate": 2.218
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0003",
+    "date": "2025-09-01",
+    "qty": 338,
+    "unit_cost": 707.69,
+    "turnover_rate": 1.238
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0003",
+    "date": "2025-10-01",
+    "qty": 337,
+    "unit_cost": 707.69,
+    "turnover_rate": 2.348
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0003",
+    "date": "2025-11-01",
+    "qty": 321,
+    "unit_cost": 707.69,
+    "turnover_rate": 2.354
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0004",
+    "date": "2024-01-01",
+    "qty": 88,
+    "unit_cost": 87.88,
+    "turnover_rate": 1.738
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0004",
+    "date": "2024-01-01",
+    "qty": 87,
+    "unit_cost": 87.88,
+    "turnover_rate": 2.256
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0004",
+    "date": "2024-03-01",
+    "qty": 84,
+    "unit_cost": 87.88,
+    "turnover_rate": 1.683
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0004",
+    "date": "2024-03-01",
+    "qty": 80,
+    "unit_cost": 87.88,
+    "turnover_rate": 2.359
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0004",
+    "date": "2024-04-01",
+    "qty": 62,
+    "unit_cost": 87.88,
+    "turnover_rate": 0.821
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0004",
+    "date": "2024-05-01",
+    "qty": 77,
+    "unit_cost": 87.88,
+    "turnover_rate": 1.991
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0004",
+    "date": "2024-06-01",
+    "qty": 78,
+    "unit_cost": 87.88,
+    "turnover_rate": 1.799
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0004",
+    "date": "2024-07-01",
+    "qty": 71,
+    "unit_cost": 87.88,
+    "turnover_rate": 2.129
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0004",
+    "date": "2024-08-01",
+    "qty": 81,
+    "unit_cost": 87.88,
+    "turnover_rate": 0.991
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0004",
+    "date": "2024-09-01",
+    "qty": 90,
+    "unit_cost": 87.88,
+    "turnover_rate": 1.054
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0004",
+    "date": "2024-10-01",
+    "qty": 112,
+    "unit_cost": 87.88,
+    "turnover_rate": 1.763
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0004",
+    "date": "2024-11-01",
+    "qty": 86,
+    "unit_cost": 87.88,
+    "turnover_rate": 1.791
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0004",
+    "date": "2024-12-01",
+    "qty": 87,
+    "unit_cost": 87.88,
+    "turnover_rate": 2.44
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0004",
+    "date": "2025-01-01",
+    "qty": 82,
+    "unit_cost": 87.88,
+    "turnover_rate": 0.97
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0004",
+    "date": "2025-02-01",
+    "qty": 55,
+    "unit_cost": 87.88,
+    "turnover_rate": 0.98
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0004",
+    "date": "2025-03-01",
+    "qty": 83,
+    "unit_cost": 87.88,
+    "turnover_rate": 2.125
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0004",
+    "date": "2025-04-01",
+    "qty": 84,
+    "unit_cost": 87.88,
+    "turnover_rate": 2.136
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0004",
+    "date": "2025-05-01",
+    "qty": 120,
+    "unit_cost": 87.88,
+    "turnover_rate": 2.275
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0004",
+    "date": "2025-06-01",
+    "qty": 81,
+    "unit_cost": 87.88,
+    "turnover_rate": 2.296
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0004",
+    "date": "2025-07-01",
+    "qty": 88,
+    "unit_cost": 87.88,
+    "turnover_rate": 2.292
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0004",
+    "date": "2025-08-01",
+    "qty": 83,
+    "unit_cost": 87.88,
+    "turnover_rate": 1.249
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0004",
+    "date": "2025-09-01",
+    "qty": 66,
+    "unit_cost": 87.88,
+    "turnover_rate": 1.913
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0004",
+    "date": "2025-10-01",
+    "qty": 101,
+    "unit_cost": 87.88,
+    "turnover_rate": 1.772
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0004",
+    "date": "2025-11-01",
+    "qty": 95,
+    "unit_cost": 87.88,
+    "turnover_rate": 1.604
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0005",
+    "date": "2024-01-01",
+    "qty": 138,
+    "unit_cost": 234.82,
+    "turnover_rate": 0.22
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0005",
+    "date": "2024-01-01",
+    "qty": 137,
+    "unit_cost": 234.82,
+    "turnover_rate": 0.06
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0005",
+    "date": "2024-03-01",
+    "qty": 136,
+    "unit_cost": 234.82,
+    "turnover_rate": 0.223
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0005",
+    "date": "2024-03-01",
+    "qty": 138,
+    "unit_cost": 234.82,
+    "turnover_rate": 0.236
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0005",
+    "date": "2024-04-01",
+    "qty": 134,
+    "unit_cost": 234.82,
+    "turnover_rate": 0.274
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0005",
+    "date": "2024-05-01",
+    "qty": 138,
+    "unit_cost": 234.82,
+    "turnover_rate": 0.134
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0005",
+    "date": "2024-06-01",
+    "qty": 132,
+    "unit_cost": 234.82,
+    "turnover_rate": 0.128
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0005",
+    "date": "2024-07-01",
+    "qty": 131,
+    "unit_cost": 234.82,
+    "turnover_rate": 0.265
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0005",
+    "date": "2024-08-01",
+    "qty": 122,
+    "unit_cost": 234.82,
+    "turnover_rate": 0.075
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0005",
+    "date": "2024-09-01",
+    "qty": 138,
+    "unit_cost": 234.82,
+    "turnover_rate": 0.084
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0005",
+    "date": "2024-10-01",
+    "qty": 118,
+    "unit_cost": 234.82,
+    "turnover_rate": 0.161
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0005",
+    "date": "2024-11-01",
+    "qty": 127,
+    "unit_cost": 234.82,
+    "turnover_rate": 0.117
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0005",
+    "date": "2024-12-01",
+    "qty": 126,
+    "unit_cost": 234.82,
+    "turnover_rate": 0.201
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0005",
+    "date": "2025-01-01",
+    "qty": 138,
+    "unit_cost": 234.82,
+    "turnover_rate": 0.097
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0005",
+    "date": "2025-02-01",
+    "qty": 138,
+    "unit_cost": 234.82,
+    "turnover_rate": 0.278
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0005",
+    "date": "2025-03-01",
+    "qty": 123,
+    "unit_cost": 234.82,
+    "turnover_rate": 0.235
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0005",
+    "date": "2025-04-01",
+    "qty": 106,
+    "unit_cost": 234.82,
+    "turnover_rate": 0.267
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0005",
+    "date": "2025-05-01",
+    "qty": 138,
+    "unit_cost": 234.82,
+    "turnover_rate": 0.179
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0005",
+    "date": "2025-06-01",
+    "qty": 138,
+    "unit_cost": 234.82,
+    "turnover_rate": 0.066
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0005",
+    "date": "2025-07-01",
+    "qty": 100,
+    "unit_cost": 234.82,
+    "turnover_rate": 0.177
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0005",
+    "date": "2025-08-01",
+    "qty": 138,
+    "unit_cost": 234.82,
+    "turnover_rate": 0.245
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0005",
+    "date": "2025-09-01",
+    "qty": 96,
+    "unit_cost": 234.82,
+    "turnover_rate": 0.27
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0005",
+    "date": "2025-10-01",
+    "qty": 138,
+    "unit_cost": 234.82,
+    "turnover_rate": 0.093
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0005",
+    "date": "2025-11-01",
+    "qty": 138,
+    "unit_cost": 234.82,
+    "turnover_rate": 0.259
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0006",
+    "date": "2024-01-01",
+    "qty": 177,
+    "unit_cost": 45.8,
+    "turnover_rate": 0.226
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0006",
+    "date": "2024-01-01",
+    "qty": 176,
+    "unit_cost": 45.8,
+    "turnover_rate": 0.142
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0006",
+    "date": "2024-03-01",
+    "qty": 175,
+    "unit_cost": 45.8,
+    "turnover_rate": 0.176
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0006",
+    "date": "2024-03-01",
+    "qty": 171,
+    "unit_cost": 45.8,
+    "turnover_rate": 0.281
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0006",
+    "date": "2024-04-01",
+    "qty": 169,
+    "unit_cost": 45.8,
+    "turnover_rate": 0.058
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0006",
+    "date": "2024-05-01",
+    "qty": 172,
+    "unit_cost": 45.8,
+    "turnover_rate": 0.172
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0006",
+    "date": "2024-06-01",
+    "qty": 171,
+    "unit_cost": 45.8,
+    "turnover_rate": 0.094
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0006",
+    "date": "2024-07-01",
+    "qty": 170,
+    "unit_cost": 45.8,
+    "turnover_rate": 0.197
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0006",
+    "date": "2024-08-01",
+    "qty": 169,
+    "unit_cost": 45.8,
+    "turnover_rate": 0.136
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0006",
+    "date": "2024-09-01",
+    "qty": 168,
+    "unit_cost": 45.8,
+    "turnover_rate": 0.237
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0006",
+    "date": "2024-10-01",
+    "qty": 157,
+    "unit_cost": 45.8,
+    "turnover_rate": 0.073
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0006",
+    "date": "2024-11-01",
+    "qty": 177,
+    "unit_cost": 45.8,
+    "turnover_rate": 0.147
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0006",
+    "date": "2024-12-01",
+    "qty": 177,
+    "unit_cost": 45.8,
+    "turnover_rate": 0.263
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0006",
+    "date": "2025-01-01",
+    "qty": 177,
+    "unit_cost": 45.8,
+    "turnover_rate": 0.264
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0006",
+    "date": "2025-02-01",
+    "qty": 149,
+    "unit_cost": 45.8,
+    "turnover_rate": 0.106
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0006",
+    "date": "2025-03-01",
+    "qty": 177,
+    "unit_cost": 45.8,
+    "turnover_rate": 0.117
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0006",
+    "date": "2025-04-01",
+    "qty": 161,
+    "unit_cost": 45.8,
+    "turnover_rate": 0.178
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0006",
+    "date": "2025-05-01",
+    "qty": 143,
+    "unit_cost": 45.8,
+    "turnover_rate": 0.052
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0006",
+    "date": "2025-06-01",
+    "qty": 177,
+    "unit_cost": 45.8,
+    "turnover_rate": 0.212
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0006",
+    "date": "2025-07-01",
+    "qty": 139,
+    "unit_cost": 45.8,
+    "turnover_rate": 0.25
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0006",
+    "date": "2025-08-01",
+    "qty": 177,
+    "unit_cost": 45.8,
+    "turnover_rate": 0.113
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0006",
+    "date": "2025-09-01",
+    "qty": 156,
+    "unit_cost": 45.8,
+    "turnover_rate": 0.228
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0006",
+    "date": "2025-10-01",
+    "qty": 133,
+    "unit_cost": 45.8,
+    "turnover_rate": 0.211
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0006",
+    "date": "2025-11-01",
+    "qty": 154,
+    "unit_cost": 45.8,
+    "turnover_rate": 0.274
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0007",
+    "date": "2024-01-01",
+    "qty": 497,
+    "unit_cost": 291.99,
+    "turnover_rate": 1.593
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0007",
+    "date": "2024-01-01",
+    "qty": 472,
+    "unit_cost": 291.99,
+    "turnover_rate": 1.951
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0007",
+    "date": "2024-03-01",
+    "qty": 507,
+    "unit_cost": 291.99,
+    "turnover_rate": 2.201
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0007",
+    "date": "2024-03-01",
+    "qty": 464,
+    "unit_cost": 291.99,
+    "turnover_rate": 1.475
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0007",
+    "date": "2024-04-01",
+    "qty": 494,
+    "unit_cost": 291.99,
+    "turnover_rate": 0.974
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0007",
+    "date": "2024-05-01",
+    "qty": 518,
+    "unit_cost": 291.99,
+    "turnover_rate": 1.67
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0007",
+    "date": "2024-06-01",
+    "qty": 471,
+    "unit_cost": 291.99,
+    "turnover_rate": 1.926
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0007",
+    "date": "2024-07-01",
+    "qty": 477,
+    "unit_cost": 291.99,
+    "turnover_rate": 2.234
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0007",
+    "date": "2024-08-01",
+    "qty": 487,
+    "unit_cost": 291.99,
+    "turnover_rate": 1.436
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0007",
+    "date": "2024-09-01",
+    "qty": 478,
+    "unit_cost": 291.99,
+    "turnover_rate": 1.9
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0007",
+    "date": "2024-10-01",
+    "qty": 462,
+    "unit_cost": 291.99,
+    "turnover_rate": 1.835
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0007",
+    "date": "2024-11-01",
+    "qty": 487,
+    "unit_cost": 291.99,
+    "turnover_rate": 1.307
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0007",
+    "date": "2024-12-01",
+    "qty": 470,
+    "unit_cost": 291.99,
+    "turnover_rate": 0.984
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0007",
+    "date": "2025-01-01",
+    "qty": 493,
+    "unit_cost": 291.99,
+    "turnover_rate": 0.909
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0007",
+    "date": "2025-02-01",
+    "qty": 472,
+    "unit_cost": 291.99,
+    "turnover_rate": 2.48
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0007",
+    "date": "2025-03-01",
+    "qty": 509,
+    "unit_cost": 291.99,
+    "turnover_rate": 1.889
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0007",
+    "date": "2025-04-01",
+    "qty": 474,
+    "unit_cost": 291.99,
+    "turnover_rate": 2.265
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0007",
+    "date": "2025-05-01",
+    "qty": 481,
+    "unit_cost": 291.99,
+    "turnover_rate": 1.244
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0007",
+    "date": "2025-06-01",
+    "qty": 498,
+    "unit_cost": 291.99,
+    "turnover_rate": 2.009
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0007",
+    "date": "2025-07-01",
+    "qty": 467,
+    "unit_cost": 291.99,
+    "turnover_rate": 2.317
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0007",
+    "date": "2025-08-01",
+    "qty": 489,
+    "unit_cost": 291.99,
+    "turnover_rate": 1.308
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0007",
+    "date": "2025-09-01",
+    "qty": 505,
+    "unit_cost": 291.99,
+    "turnover_rate": 1.055
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0007",
+    "date": "2025-10-01",
+    "qty": 461,
+    "unit_cost": 291.99,
+    "turnover_rate": 2.101
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0007",
+    "date": "2025-11-01",
+    "qty": 488,
+    "unit_cost": 291.99,
+    "turnover_rate": 2.329
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0008",
+    "date": "2024-01-01",
+    "qty": 465,
+    "unit_cost": 688.71,
+    "turnover_rate": 1.487
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0008",
+    "date": "2024-01-01",
+    "qty": 473,
+    "unit_cost": 688.71,
+    "turnover_rate": 1.343
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0008",
+    "date": "2024-03-01",
+    "qty": 443,
+    "unit_cost": 688.71,
+    "turnover_rate": 1.038
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0008",
+    "date": "2024-03-01",
+    "qty": 442,
+    "unit_cost": 688.71,
+    "turnover_rate": 0.843
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0008",
+    "date": "2024-04-01",
+    "qty": 469,
+    "unit_cost": 688.71,
+    "turnover_rate": 1.646
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0008",
+    "date": "2024-05-01",
+    "qty": 466,
+    "unit_cost": 688.71,
+    "turnover_rate": 1.303
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0008",
+    "date": "2024-06-01",
+    "qty": 465,
+    "unit_cost": 688.71,
+    "turnover_rate": 2.342
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0008",
+    "date": "2024-07-01",
+    "qty": 467,
+    "unit_cost": 688.71,
+    "turnover_rate": 1.488
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0008",
+    "date": "2024-08-01",
+    "qty": 451,
+    "unit_cost": 688.71,
+    "turnover_rate": 2.052
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0008",
+    "date": "2024-09-01",
+    "qty": 465,
+    "unit_cost": 688.71,
+    "turnover_rate": 1.791
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0008",
+    "date": "2024-10-01",
+    "qty": 466,
+    "unit_cost": 688.71,
+    "turnover_rate": 2.491
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0008",
+    "date": "2024-11-01",
+    "qty": 451,
+    "unit_cost": 688.71,
+    "turnover_rate": 2.187
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0008",
+    "date": "2024-12-01",
+    "qty": 489,
+    "unit_cost": 688.71,
+    "turnover_rate": 1.383
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0008",
+    "date": "2025-01-01",
+    "qty": 469,
+    "unit_cost": 688.71,
+    "turnover_rate": 2.013
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0008",
+    "date": "2025-02-01",
+    "qty": 444,
+    "unit_cost": 688.71,
+    "turnover_rate": 1.967
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0008",
+    "date": "2025-03-01",
+    "qty": 471,
+    "unit_cost": 688.71,
+    "turnover_rate": 1.885
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0008",
+    "date": "2025-04-01",
+    "qty": 447,
+    "unit_cost": 688.71,
+    "turnover_rate": 1.609
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0008",
+    "date": "2025-05-01",
+    "qty": 473,
+    "unit_cost": 688.71,
+    "turnover_rate": 2.399
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0008",
+    "date": "2025-06-01",
+    "qty": 479,
+    "unit_cost": 688.71,
+    "turnover_rate": 1.409
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0008",
+    "date": "2025-07-01",
+    "qty": 449,
+    "unit_cost": 688.71,
+    "turnover_rate": 1.31
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0008",
+    "date": "2025-08-01",
+    "qty": 476,
+    "unit_cost": 688.71,
+    "turnover_rate": 1.089
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0008",
+    "date": "2025-09-01",
+    "qty": 468,
+    "unit_cost": 688.71,
+    "turnover_rate": 1.918
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0008",
+    "date": "2025-10-01",
+    "qty": 474,
+    "unit_cost": 688.71,
+    "turnover_rate": 1.749
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0008",
+    "date": "2025-11-01",
+    "qty": 490,
+    "unit_cost": 688.71,
+    "turnover_rate": 1.299
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0009",
+    "date": "2024-01-01",
+    "qty": 287,
+    "unit_cost": 119.8,
+    "turnover_rate": 2.174
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0009",
+    "date": "2024-01-01",
+    "qty": 279,
+    "unit_cost": 119.8,
+    "turnover_rate": 2.097
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0009",
+    "date": "2024-03-01",
+    "qty": 277,
+    "unit_cost": 119.8,
+    "turnover_rate": 1.111
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0009",
+    "date": "2024-03-01",
+    "qty": 278,
+    "unit_cost": 119.8,
+    "turnover_rate": 1.956
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0009",
+    "date": "2024-04-01",
+    "qty": 289,
+    "unit_cost": 119.8,
+    "turnover_rate": 1.371
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0009",
+    "date": "2024-05-01",
+    "qty": 296,
+    "unit_cost": 119.8,
+    "turnover_rate": 0.952
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0009",
+    "date": "2024-06-01",
+    "qty": 295,
+    "unit_cost": 119.8,
+    "turnover_rate": 1.404
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0009",
+    "date": "2024-07-01",
+    "qty": 303,
+    "unit_cost": 119.8,
+    "turnover_rate": 2.065
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0009",
+    "date": "2024-08-01",
+    "qty": 291,
+    "unit_cost": 119.8,
+    "turnover_rate": 1.322
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0009",
+    "date": "2024-09-01",
+    "qty": 312,
+    "unit_cost": 119.8,
+    "turnover_rate": 2.14
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0009",
+    "date": "2024-10-01",
+    "qty": 287,
+    "unit_cost": 119.8,
+    "turnover_rate": 1.363
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0009",
+    "date": "2024-11-01",
+    "qty": 331,
+    "unit_cost": 119.8,
+    "turnover_rate": 1.243
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0009",
+    "date": "2024-12-01",
+    "qty": 300,
+    "unit_cost": 119.8,
+    "turnover_rate": 1.3
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0009",
+    "date": "2025-01-01",
+    "qty": 278,
+    "unit_cost": 119.8,
+    "turnover_rate": 2.247
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0009",
+    "date": "2025-02-01",
+    "qty": 274,
+    "unit_cost": 119.8,
+    "turnover_rate": 1.6
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0009",
+    "date": "2025-03-01",
+    "qty": 298,
+    "unit_cost": 119.8,
+    "turnover_rate": 2.273
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0009",
+    "date": "2025-04-01",
+    "qty": 287,
+    "unit_cost": 119.8,
+    "turnover_rate": 1.792
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0009",
+    "date": "2025-05-01",
+    "qty": 301,
+    "unit_cost": 119.8,
+    "turnover_rate": 2.405
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0009",
+    "date": "2025-06-01",
+    "qty": 298,
+    "unit_cost": 119.8,
+    "turnover_rate": 0.921
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0009",
+    "date": "2025-07-01",
+    "qty": 289,
+    "unit_cost": 119.8,
+    "turnover_rate": 2.312
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0009",
+    "date": "2025-08-01",
+    "qty": 278,
+    "unit_cost": 119.8,
+    "turnover_rate": 1.651
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0009",
+    "date": "2025-09-01",
+    "qty": 268,
+    "unit_cost": 119.8,
+    "turnover_rate": 2.275
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0009",
+    "date": "2025-10-01",
+    "qty": 284,
+    "unit_cost": 119.8,
+    "turnover_rate": 1.449
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0009",
+    "date": "2025-11-01",
+    "qty": 303,
+    "unit_cost": 119.8,
+    "turnover_rate": 1.307
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0010",
+    "date": "2024-01-01",
+    "qty": 80,
+    "unit_cost": 699.26,
+    "turnover_rate": 2.487
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0010",
+    "date": "2024-01-01",
+    "qty": 58,
+    "unit_cost": 699.26,
+    "turnover_rate": 1.383
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0010",
+    "date": "2024-03-01",
+    "qty": 79,
+    "unit_cost": 699.26,
+    "turnover_rate": 2.478
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0010",
+    "date": "2024-03-01",
+    "qty": 82,
+    "unit_cost": 699.26,
+    "turnover_rate": 2.318
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0010",
+    "date": "2024-04-01",
+    "qty": 63,
+    "unit_cost": 699.26,
+    "turnover_rate": 2.477
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0010",
+    "date": "2024-05-01",
+    "qty": 79,
+    "unit_cost": 699.26,
+    "turnover_rate": 1.043
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0010",
+    "date": "2024-06-01",
+    "qty": 77,
+    "unit_cost": 699.26,
+    "turnover_rate": 2.266
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0010",
+    "date": "2024-07-01",
+    "qty": 59,
+    "unit_cost": 699.26,
+    "turnover_rate": 1.107
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0010",
+    "date": "2024-08-01",
+    "qty": 82,
+    "unit_cost": 699.26,
+    "turnover_rate": 0.937
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0010",
+    "date": "2024-09-01",
+    "qty": 85,
+    "unit_cost": 699.26,
+    "turnover_rate": 1.365
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0010",
+    "date": "2024-10-01",
+    "qty": 93,
+    "unit_cost": 699.26,
+    "turnover_rate": 2.477
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0010",
+    "date": "2024-11-01",
+    "qty": 92,
+    "unit_cost": 699.26,
+    "turnover_rate": 1.333
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0010",
+    "date": "2024-12-01",
+    "qty": 56,
+    "unit_cost": 699.26,
+    "turnover_rate": 0.899
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0010",
+    "date": "2025-01-01",
+    "qty": 62,
+    "unit_cost": 699.26,
+    "turnover_rate": 1.568
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0010",
+    "date": "2025-02-01",
+    "qty": 84,
+    "unit_cost": 699.26,
+    "turnover_rate": 1.156
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0010",
+    "date": "2025-03-01",
+    "qty": 84,
+    "unit_cost": 699.26,
+    "turnover_rate": 2.115
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0010",
+    "date": "2025-04-01",
+    "qty": 84,
+    "unit_cost": 699.26,
+    "turnover_rate": 1.78
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0010",
+    "date": "2025-05-01",
+    "qty": 134,
+    "unit_cost": 699.26,
+    "turnover_rate": 1.069
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0010",
+    "date": "2025-06-01",
+    "qty": 85,
+    "unit_cost": 699.26,
+    "turnover_rate": 2.135
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0010",
+    "date": "2025-07-01",
+    "qty": 94,
+    "unit_cost": 699.26,
+    "turnover_rate": 2.126
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0010",
+    "date": "2025-08-01",
+    "qty": 91,
+    "unit_cost": 699.26,
+    "turnover_rate": 1.02
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0010",
+    "date": "2025-09-01",
+    "qty": 86,
+    "unit_cost": 699.26,
+    "turnover_rate": 1.537
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0010",
+    "date": "2025-10-01",
+    "qty": 72,
+    "unit_cost": 699.26,
+    "turnover_rate": 1.53
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0010",
+    "date": "2025-11-01",
+    "qty": 88,
+    "unit_cost": 699.26,
+    "turnover_rate": 1.529
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0011",
+    "date": "2024-01-01",
+    "qty": 294,
+    "unit_cost": 318.99,
+    "turnover_rate": 0.233
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0011",
+    "date": "2024-01-01",
+    "qty": 294,
+    "unit_cost": 318.99,
+    "turnover_rate": 0.273
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0011",
+    "date": "2024-03-01",
+    "qty": 290,
+    "unit_cost": 318.99,
+    "turnover_rate": 0.098
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0011",
+    "date": "2024-03-01",
+    "qty": 288,
+    "unit_cost": 318.99,
+    "turnover_rate": 0.051
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0011",
+    "date": "2024-04-01",
+    "qty": 286,
+    "unit_cost": 318.99,
+    "turnover_rate": 0.112
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0011",
+    "date": "2024-05-01",
+    "qty": 284,
+    "unit_cost": 318.99,
+    "turnover_rate": 0.269
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0011",
+    "date": "2024-06-01",
+    "qty": 288,
+    "unit_cost": 318.99,
+    "turnover_rate": 0.082
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0011",
+    "date": "2024-07-01",
+    "qty": 287,
+    "unit_cost": 318.99,
+    "turnover_rate": 0.176
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0011",
+    "date": "2024-08-01",
+    "qty": 286,
+    "unit_cost": 318.99,
+    "turnover_rate": 0.092
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0011",
+    "date": "2024-09-01",
+    "qty": 294,
+    "unit_cost": 318.99,
+    "turnover_rate": 0.125
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0011",
+    "date": "2024-10-01",
+    "qty": 284,
+    "unit_cost": 318.99,
+    "turnover_rate": 0.164
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0011",
+    "date": "2024-11-01",
+    "qty": 272,
+    "unit_cost": 318.99,
+    "turnover_rate": 0.199
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0011",
+    "date": "2024-12-01",
+    "qty": 282,
+    "unit_cost": 318.99,
+    "turnover_rate": 0.158
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0011",
+    "date": "2025-01-01",
+    "qty": 268,
+    "unit_cost": 318.99,
+    "turnover_rate": 0.299
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0011",
+    "date": "2025-02-01",
+    "qty": 280,
+    "unit_cost": 318.99,
+    "turnover_rate": 0.299
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0011",
+    "date": "2025-03-01",
+    "qty": 279,
+    "unit_cost": 318.99,
+    "turnover_rate": 0.14
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0011",
+    "date": "2025-04-01",
+    "qty": 294,
+    "unit_cost": 318.99,
+    "turnover_rate": 0.091
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0011",
+    "date": "2025-05-01",
+    "qty": 277,
+    "unit_cost": 318.99,
+    "turnover_rate": 0.055
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0011",
+    "date": "2025-06-01",
+    "qty": 294,
+    "unit_cost": 318.99,
+    "turnover_rate": 0.232
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0011",
+    "date": "2025-07-01",
+    "qty": 294,
+    "unit_cost": 318.99,
+    "turnover_rate": 0.103
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0011",
+    "date": "2025-08-01",
+    "qty": 294,
+    "unit_cost": 318.99,
+    "turnover_rate": 0.197
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0011",
+    "date": "2025-09-01",
+    "qty": 294,
+    "unit_cost": 318.99,
+    "turnover_rate": 0.081
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0011",
+    "date": "2025-10-01",
+    "qty": 250,
+    "unit_cost": 318.99,
+    "turnover_rate": 0.213
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0011",
+    "date": "2025-11-01",
+    "qty": 294,
+    "unit_cost": 318.99,
+    "turnover_rate": 0.144
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0012",
+    "date": "2024-01-01",
+    "qty": 365,
+    "unit_cost": 219.52,
+    "turnover_rate": 0.883
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0012",
+    "date": "2024-01-01",
+    "qty": 373,
+    "unit_cost": 219.52,
+    "turnover_rate": 2.491
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0012",
+    "date": "2024-03-01",
+    "qty": 369,
+    "unit_cost": 219.52,
+    "turnover_rate": 1.925
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0012",
+    "date": "2024-03-01",
+    "qty": 378,
+    "unit_cost": 219.52,
+    "turnover_rate": 1.911
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0012",
+    "date": "2024-04-01",
+    "qty": 411,
+    "unit_cost": 219.52,
+    "turnover_rate": 0.834
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0012",
+    "date": "2024-05-01",
+    "qty": 348,
+    "unit_cost": 219.52,
+    "turnover_rate": 1.973
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0012",
+    "date": "2024-06-01",
+    "qty": 387,
+    "unit_cost": 219.52,
+    "turnover_rate": 1.509
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0012",
+    "date": "2024-07-01",
+    "qty": 352,
+    "unit_cost": 219.52,
+    "turnover_rate": 1.446
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0012",
+    "date": "2024-08-01",
+    "qty": 369,
+    "unit_cost": 219.52,
+    "turnover_rate": 1.73
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0012",
+    "date": "2024-09-01",
+    "qty": 393,
+    "unit_cost": 219.52,
+    "turnover_rate": 1.606
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0012",
+    "date": "2024-10-01",
+    "qty": 377,
+    "unit_cost": 219.52,
+    "turnover_rate": 1.06
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0012",
+    "date": "2024-11-01",
+    "qty": 360,
+    "unit_cost": 219.52,
+    "turnover_rate": 1.982
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0012",
+    "date": "2024-12-01",
+    "qty": 366,
+    "unit_cost": 219.52,
+    "turnover_rate": 1.872
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0012",
+    "date": "2025-01-01",
+    "qty": 387,
+    "unit_cost": 219.52,
+    "turnover_rate": 1.312
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0012",
+    "date": "2025-02-01",
+    "qty": 366,
+    "unit_cost": 219.52,
+    "turnover_rate": 1.925
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0012",
+    "date": "2025-03-01",
+    "qty": 380,
+    "unit_cost": 219.52,
+    "turnover_rate": 1.926
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0012",
+    "date": "2025-04-01",
+    "qty": 377,
+    "unit_cost": 219.52,
+    "turnover_rate": 1.259
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0012",
+    "date": "2025-05-01",
+    "qty": 367,
+    "unit_cost": 219.52,
+    "turnover_rate": 1.83
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0012",
+    "date": "2025-06-01",
+    "qty": 409,
+    "unit_cost": 219.52,
+    "turnover_rate": 1.033
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0012",
+    "date": "2025-07-01",
+    "qty": 386,
+    "unit_cost": 219.52,
+    "turnover_rate": 2.212
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0012",
+    "date": "2025-08-01",
+    "qty": 346,
+    "unit_cost": 219.52,
+    "turnover_rate": 0.978
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0012",
+    "date": "2025-09-01",
+    "qty": 379,
+    "unit_cost": 219.52,
+    "turnover_rate": 2.022
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0012",
+    "date": "2025-10-01",
+    "qty": 367,
+    "unit_cost": 219.52,
+    "turnover_rate": 1.0
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0012",
+    "date": "2025-11-01",
+    "qty": 389,
+    "unit_cost": 219.52,
+    "turnover_rate": 0.994
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0013",
+    "date": "2024-01-01",
+    "qty": 92,
+    "unit_cost": 408.24,
+    "turnover_rate": 2.123
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0013",
+    "date": "2024-01-01",
+    "qty": 102,
+    "unit_cost": 408.24,
+    "turnover_rate": 2.214
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0013",
+    "date": "2024-03-01",
+    "qty": 111,
+    "unit_cost": 408.24,
+    "turnover_rate": 2.454
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0013",
+    "date": "2024-03-01",
+    "qty": 116,
+    "unit_cost": 408.24,
+    "turnover_rate": 1.408
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0013",
+    "date": "2024-04-01",
+    "qty": 85,
+    "unit_cost": 408.24,
+    "turnover_rate": 1.497
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0013",
+    "date": "2024-05-01",
+    "qty": 98,
+    "unit_cost": 408.24,
+    "turnover_rate": 1.073
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0013",
+    "date": "2024-06-01",
+    "qty": 96,
+    "unit_cost": 408.24,
+    "turnover_rate": 1.732
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0013",
+    "date": "2024-07-01",
+    "qty": 94,
+    "unit_cost": 408.24,
+    "turnover_rate": 2.348
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0013",
+    "date": "2024-08-01",
+    "qty": 130,
+    "unit_cost": 408.24,
+    "turnover_rate": 1.97
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0013",
+    "date": "2024-09-01",
+    "qty": 110,
+    "unit_cost": 408.24,
+    "turnover_rate": 1.617
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0013",
+    "date": "2024-10-01",
+    "qty": 85,
+    "unit_cost": 408.24,
+    "turnover_rate": 1.199
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0013",
+    "date": "2024-11-01",
+    "qty": 117,
+    "unit_cost": 408.24,
+    "turnover_rate": 0.822
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0013",
+    "date": "2024-12-01",
+    "qty": 135,
+    "unit_cost": 408.24,
+    "turnover_rate": 0.951
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0013",
+    "date": "2025-01-01",
+    "qty": 119,
+    "unit_cost": 408.24,
+    "turnover_rate": 0.988
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0013",
+    "date": "2025-02-01",
+    "qty": 81,
+    "unit_cost": 408.24,
+    "turnover_rate": 1.776
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0013",
+    "date": "2025-03-01",
+    "qty": 96,
+    "unit_cost": 408.24,
+    "turnover_rate": 1.64
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0013",
+    "date": "2025-04-01",
+    "qty": 123,
+    "unit_cost": 408.24,
+    "turnover_rate": 2.414
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0013",
+    "date": "2025-05-01",
+    "qty": 93,
+    "unit_cost": 408.24,
+    "turnover_rate": 2.125
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0013",
+    "date": "2025-06-01",
+    "qty": 110,
+    "unit_cost": 408.24,
+    "turnover_rate": 0.928
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0013",
+    "date": "2025-07-01",
+    "qty": 115,
+    "unit_cost": 408.24,
+    "turnover_rate": 2.03
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0013",
+    "date": "2025-08-01",
+    "qty": 90,
+    "unit_cost": 408.24,
+    "turnover_rate": 2.338
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0013",
+    "date": "2025-09-01",
+    "qty": 103,
+    "unit_cost": 408.24,
+    "turnover_rate": 1.895
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0013",
+    "date": "2025-10-01",
+    "qty": 55,
+    "unit_cost": 408.24,
+    "turnover_rate": 1.576
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0013",
+    "date": "2025-11-01",
+    "qty": 88,
+    "unit_cost": 408.24,
+    "turnover_rate": 2.461
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0014",
+    "date": "2024-01-01",
+    "qty": 185,
+    "unit_cost": 382.14,
+    "turnover_rate": 0.269
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0014",
+    "date": "2024-01-01",
+    "qty": 184,
+    "unit_cost": 382.14,
+    "turnover_rate": 0.14
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0014",
+    "date": "2024-03-01",
+    "qty": 181,
+    "unit_cost": 382.14,
+    "turnover_rate": 0.128
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0014",
+    "date": "2024-03-01",
+    "qty": 179,
+    "unit_cost": 382.14,
+    "turnover_rate": 0.079
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0014",
+    "date": "2024-04-01",
+    "qty": 185,
+    "unit_cost": 382.14,
+    "turnover_rate": 0.052
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0014",
+    "date": "2024-05-01",
+    "qty": 185,
+    "unit_cost": 382.14,
+    "turnover_rate": 0.216
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0014",
+    "date": "2024-06-01",
+    "qty": 185,
+    "unit_cost": 382.14,
+    "turnover_rate": 0.132
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0014",
+    "date": "2024-07-01",
+    "qty": 178,
+    "unit_cost": 382.14,
+    "turnover_rate": 0.289
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0014",
+    "date": "2024-08-01",
+    "qty": 177,
+    "unit_cost": 382.14,
+    "turnover_rate": 0.27
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0014",
+    "date": "2024-09-01",
+    "qty": 185,
+    "unit_cost": 382.14,
+    "turnover_rate": 0.143
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0014",
+    "date": "2024-10-01",
+    "qty": 175,
+    "unit_cost": 382.14,
+    "turnover_rate": 0.096
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0014",
+    "date": "2024-11-01",
+    "qty": 174,
+    "unit_cost": 382.14,
+    "turnover_rate": 0.15
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0014",
+    "date": "2024-12-01",
+    "qty": 173,
+    "unit_cost": 382.14,
+    "turnover_rate": 0.118
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0014",
+    "date": "2025-01-01",
+    "qty": 172,
+    "unit_cost": 382.14,
+    "turnover_rate": 0.222
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0014",
+    "date": "2025-02-01",
+    "qty": 171,
+    "unit_cost": 382.14,
+    "turnover_rate": 0.25
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0014",
+    "date": "2025-03-01",
+    "qty": 155,
+    "unit_cost": 382.14,
+    "turnover_rate": 0.272
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0014",
+    "date": "2025-04-01",
+    "qty": 185,
+    "unit_cost": 382.14,
+    "turnover_rate": 0.078
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0014",
+    "date": "2025-05-01",
+    "qty": 151,
+    "unit_cost": 382.14,
+    "turnover_rate": 0.232
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0014",
+    "date": "2025-06-01",
+    "qty": 185,
+    "unit_cost": 382.14,
+    "turnover_rate": 0.076
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0014",
+    "date": "2025-07-01",
+    "qty": 147,
+    "unit_cost": 382.14,
+    "turnover_rate": 0.171
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0014",
+    "date": "2025-08-01",
+    "qty": 145,
+    "unit_cost": 382.14,
+    "turnover_rate": 0.22
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0014",
+    "date": "2025-09-01",
+    "qty": 185,
+    "unit_cost": 382.14,
+    "turnover_rate": 0.203
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0014",
+    "date": "2025-10-01",
+    "qty": 163,
+    "unit_cost": 382.14,
+    "turnover_rate": 0.203
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0014",
+    "date": "2025-11-01",
+    "qty": 139,
+    "unit_cost": 382.14,
+    "turnover_rate": 0.27
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0015",
+    "date": "2024-01-01",
+    "qty": 422,
+    "unit_cost": 779.29,
+    "turnover_rate": 0.078
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0015",
+    "date": "2024-01-01",
+    "qty": 421,
+    "unit_cost": 779.29,
+    "turnover_rate": 0.16
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0015",
+    "date": "2024-03-01",
+    "qty": 422,
+    "unit_cost": 779.29,
+    "turnover_rate": 0.115
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0015",
+    "date": "2024-03-01",
+    "qty": 419,
+    "unit_cost": 779.29,
+    "turnover_rate": 0.053
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0015",
+    "date": "2024-04-01",
+    "qty": 414,
+    "unit_cost": 779.29,
+    "turnover_rate": 0.181
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0015",
+    "date": "2024-05-01",
+    "qty": 412,
+    "unit_cost": 779.29,
+    "turnover_rate": 0.194
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0015",
+    "date": "2024-06-01",
+    "qty": 410,
+    "unit_cost": 779.29,
+    "turnover_rate": 0.106
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0015",
+    "date": "2024-07-01",
+    "qty": 408,
+    "unit_cost": 779.29,
+    "turnover_rate": 0.268
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0015",
+    "date": "2024-08-01",
+    "qty": 406,
+    "unit_cost": 779.29,
+    "turnover_rate": 0.181
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0015",
+    "date": "2024-09-01",
+    "qty": 404,
+    "unit_cost": 779.29,
+    "turnover_rate": 0.205
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0015",
+    "date": "2024-10-01",
+    "qty": 412,
+    "unit_cost": 779.29,
+    "turnover_rate": 0.215
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0015",
+    "date": "2024-11-01",
+    "qty": 422,
+    "unit_cost": 779.29,
+    "turnover_rate": 0.17
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0015",
+    "date": "2024-12-01",
+    "qty": 398,
+    "unit_cost": 779.29,
+    "turnover_rate": 0.219
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0015",
+    "date": "2025-01-01",
+    "qty": 409,
+    "unit_cost": 779.29,
+    "turnover_rate": 0.087
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0015",
+    "date": "2025-02-01",
+    "qty": 394,
+    "unit_cost": 779.29,
+    "turnover_rate": 0.273
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0015",
+    "date": "2025-03-01",
+    "qty": 392,
+    "unit_cost": 779.29,
+    "turnover_rate": 0.064
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0015",
+    "date": "2025-04-01",
+    "qty": 390,
+    "unit_cost": 779.29,
+    "turnover_rate": 0.284
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0015",
+    "date": "2025-05-01",
+    "qty": 388,
+    "unit_cost": 779.29,
+    "turnover_rate": 0.262
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0015",
+    "date": "2025-06-01",
+    "qty": 404,
+    "unit_cost": 779.29,
+    "turnover_rate": 0.267
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0015",
+    "date": "2025-07-01",
+    "qty": 422,
+    "unit_cost": 779.29,
+    "turnover_rate": 0.238
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0015",
+    "date": "2025-08-01",
+    "qty": 402,
+    "unit_cost": 779.29,
+    "turnover_rate": 0.11
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0015",
+    "date": "2025-09-01",
+    "qty": 401,
+    "unit_cost": 779.29,
+    "turnover_rate": 0.063
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0015",
+    "date": "2025-10-01",
+    "qty": 422,
+    "unit_cost": 779.29,
+    "turnover_rate": 0.188
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0015",
+    "date": "2025-11-01",
+    "qty": 399,
+    "unit_cost": 779.29,
+    "turnover_rate": 0.151
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0016",
+    "date": "2024-01-01",
+    "qty": 166,
+    "unit_cost": 81.49,
+    "turnover_rate": 1.774
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0016",
+    "date": "2024-01-01",
+    "qty": 151,
+    "unit_cost": 81.49,
+    "turnover_rate": 0.95
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0016",
+    "date": "2024-03-01",
+    "qty": 194,
+    "unit_cost": 81.49,
+    "turnover_rate": 1.647
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0016",
+    "date": "2024-03-01",
+    "qty": 148,
+    "unit_cost": 81.49,
+    "turnover_rate": 1.337
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0016",
+    "date": "2024-04-01",
+    "qty": 163,
+    "unit_cost": 81.49,
+    "turnover_rate": 2.467
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0016",
+    "date": "2024-05-01",
+    "qty": 171,
+    "unit_cost": 81.49,
+    "turnover_rate": 2.067
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0016",
+    "date": "2024-06-01",
+    "qty": 191,
+    "unit_cost": 81.49,
+    "turnover_rate": 0.83
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0016",
+    "date": "2024-07-01",
+    "qty": 148,
+    "unit_cost": 81.49,
+    "turnover_rate": 1.486
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0016",
+    "date": "2024-08-01",
+    "qty": 187,
+    "unit_cost": 81.49,
+    "turnover_rate": 0.861
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0016",
+    "date": "2024-09-01",
+    "qty": 170,
+    "unit_cost": 81.49,
+    "turnover_rate": 1.733
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0016",
+    "date": "2024-10-01",
+    "qty": 155,
+    "unit_cost": 81.49,
+    "turnover_rate": 2.204
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0016",
+    "date": "2024-11-01",
+    "qty": 176,
+    "unit_cost": 81.49,
+    "turnover_rate": 2.146
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0016",
+    "date": "2024-12-01",
+    "qty": 172,
+    "unit_cost": 81.49,
+    "turnover_rate": 2.437
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0016",
+    "date": "2025-01-01",
+    "qty": 160,
+    "unit_cost": 81.49,
+    "turnover_rate": 1.884
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0016",
+    "date": "2025-02-01",
+    "qty": 171,
+    "unit_cost": 81.49,
+    "turnover_rate": 2.313
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0016",
+    "date": "2025-03-01",
+    "qty": 164,
+    "unit_cost": 81.49,
+    "turnover_rate": 1.756
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0016",
+    "date": "2025-04-01",
+    "qty": 171,
+    "unit_cost": 81.49,
+    "turnover_rate": 1.913
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0016",
+    "date": "2025-05-01",
+    "qty": 179,
+    "unit_cost": 81.49,
+    "turnover_rate": 1.576
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0016",
+    "date": "2025-06-01",
+    "qty": 193,
+    "unit_cost": 81.49,
+    "turnover_rate": 1.379
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0016",
+    "date": "2025-07-01",
+    "qty": 151,
+    "unit_cost": 81.49,
+    "turnover_rate": 2.203
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0016",
+    "date": "2025-08-01",
+    "qty": 201,
+    "unit_cost": 81.49,
+    "turnover_rate": 2.188
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0016",
+    "date": "2025-09-01",
+    "qty": 140,
+    "unit_cost": 81.49,
+    "turnover_rate": 2.235
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0016",
+    "date": "2025-10-01",
+    "qty": 167,
+    "unit_cost": 81.49,
+    "turnover_rate": 1.364
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0016",
+    "date": "2025-11-01",
+    "qty": 178,
+    "unit_cost": 81.49,
+    "turnover_rate": 2.105
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0017",
+    "date": "2024-01-01",
+    "qty": 361,
+    "unit_cost": 389.04,
+    "turnover_rate": 2.017
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0017",
+    "date": "2024-01-01",
+    "qty": 347,
+    "unit_cost": 389.04,
+    "turnover_rate": 0.994
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0017",
+    "date": "2024-03-01",
+    "qty": 353,
+    "unit_cost": 389.04,
+    "turnover_rate": 2.091
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0017",
+    "date": "2024-03-01",
+    "qty": 349,
+    "unit_cost": 389.04,
+    "turnover_rate": 1.177
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0017",
+    "date": "2024-04-01",
+    "qty": 348,
+    "unit_cost": 389.04,
+    "turnover_rate": 1.38
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0017",
+    "date": "2024-05-01",
+    "qty": 369,
+    "unit_cost": 389.04,
+    "turnover_rate": 2.211
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0017",
+    "date": "2024-06-01",
+    "qty": 362,
+    "unit_cost": 389.04,
+    "turnover_rate": 2.44
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0017",
+    "date": "2024-07-01",
+    "qty": 346,
+    "unit_cost": 389.04,
+    "turnover_rate": 1.296
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0017",
+    "date": "2024-08-01",
+    "qty": 370,
+    "unit_cost": 389.04,
+    "turnover_rate": 1.687
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0017",
+    "date": "2024-09-01",
+    "qty": 361,
+    "unit_cost": 389.04,
+    "turnover_rate": 1.994
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0017",
+    "date": "2024-10-01",
+    "qty": 369,
+    "unit_cost": 389.04,
+    "turnover_rate": 0.878
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0017",
+    "date": "2024-11-01",
+    "qty": 366,
+    "unit_cost": 389.04,
+    "turnover_rate": 1.079
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0017",
+    "date": "2024-12-01",
+    "qty": 344,
+    "unit_cost": 389.04,
+    "turnover_rate": 1.039
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0017",
+    "date": "2025-01-01",
+    "qty": 348,
+    "unit_cost": 389.04,
+    "turnover_rate": 2.019
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0017",
+    "date": "2025-02-01",
+    "qty": 368,
+    "unit_cost": 389.04,
+    "turnover_rate": 2.027
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0017",
+    "date": "2025-03-01",
+    "qty": 366,
+    "unit_cost": 389.04,
+    "turnover_rate": 0.982
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0017",
+    "date": "2025-04-01",
+    "qty": 356,
+    "unit_cost": 389.04,
+    "turnover_rate": 1.838
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0017",
+    "date": "2025-05-01",
+    "qty": 358,
+    "unit_cost": 389.04,
+    "turnover_rate": 1.119
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0017",
+    "date": "2025-06-01",
+    "qty": 376,
+    "unit_cost": 389.04,
+    "turnover_rate": 2.381
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0017",
+    "date": "2025-07-01",
+    "qty": 348,
+    "unit_cost": 389.04,
+    "turnover_rate": 1.468
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0017",
+    "date": "2025-08-01",
+    "qty": 365,
+    "unit_cost": 389.04,
+    "turnover_rate": 1.577
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0017",
+    "date": "2025-09-01",
+    "qty": 353,
+    "unit_cost": 389.04,
+    "turnover_rate": 2.128
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0017",
+    "date": "2025-10-01",
+    "qty": 353,
+    "unit_cost": 389.04,
+    "turnover_rate": 2.019
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0017",
+    "date": "2025-11-01",
+    "qty": 373,
+    "unit_cost": 389.04,
+    "turnover_rate": 0.983
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0018",
+    "date": "2024-01-01",
+    "qty": 274,
+    "unit_cost": 56.27,
+    "turnover_rate": 1.943
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0018",
+    "date": "2024-01-01",
+    "qty": 274,
+    "unit_cost": 56.27,
+    "turnover_rate": 1.009
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0018",
+    "date": "2024-03-01",
+    "qty": 281,
+    "unit_cost": 56.27,
+    "turnover_rate": 2.316
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0018",
+    "date": "2024-03-01",
+    "qty": 262,
+    "unit_cost": 56.27,
+    "turnover_rate": 1.578
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0018",
+    "date": "2024-04-01",
+    "qty": 272,
+    "unit_cost": 56.27,
+    "turnover_rate": 1.802
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0018",
+    "date": "2024-05-01",
+    "qty": 257,
+    "unit_cost": 56.27,
+    "turnover_rate": 1.657
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0018",
+    "date": "2024-06-01",
+    "qty": 266,
+    "unit_cost": 56.27,
+    "turnover_rate": 2.439
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0018",
+    "date": "2024-07-01",
+    "qty": 260,
+    "unit_cost": 56.27,
+    "turnover_rate": 0.807
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0018",
+    "date": "2024-08-01",
+    "qty": 263,
+    "unit_cost": 56.27,
+    "turnover_rate": 2.052
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0018",
+    "date": "2024-09-01",
+    "qty": 270,
+    "unit_cost": 56.27,
+    "turnover_rate": 1.74
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0018",
+    "date": "2024-10-01",
+    "qty": 249,
+    "unit_cost": 56.27,
+    "turnover_rate": 1.536
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0018",
+    "date": "2024-11-01",
+    "qty": 293,
+    "unit_cost": 56.27,
+    "turnover_rate": 1.795
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0018",
+    "date": "2024-12-01",
+    "qty": 246,
+    "unit_cost": 56.27,
+    "turnover_rate": 2.371
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0018",
+    "date": "2025-01-01",
+    "qty": 243,
+    "unit_cost": 56.27,
+    "turnover_rate": 2.128
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0018",
+    "date": "2025-02-01",
+    "qty": 279,
+    "unit_cost": 56.27,
+    "turnover_rate": 2.347
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0018",
+    "date": "2025-03-01",
+    "qty": 273,
+    "unit_cost": 56.27,
+    "turnover_rate": 1.976
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0018",
+    "date": "2025-04-01",
+    "qty": 271,
+    "unit_cost": 56.27,
+    "turnover_rate": 1.095
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0018",
+    "date": "2025-05-01",
+    "qty": 271,
+    "unit_cost": 56.27,
+    "turnover_rate": 2.186
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0018",
+    "date": "2025-06-01",
+    "qty": 261,
+    "unit_cost": 56.27,
+    "turnover_rate": 0.976
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0018",
+    "date": "2025-07-01",
+    "qty": 248,
+    "unit_cost": 56.27,
+    "turnover_rate": 1.918
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0018",
+    "date": "2025-08-01",
+    "qty": 263,
+    "unit_cost": 56.27,
+    "turnover_rate": 1.83
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0018",
+    "date": "2025-09-01",
+    "qty": 251,
+    "unit_cost": 56.27,
+    "turnover_rate": 1.347
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0018",
+    "date": "2025-10-01",
+    "qty": 276,
+    "unit_cost": 56.27,
+    "turnover_rate": 2.298
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0018",
+    "date": "2025-11-01",
+    "qty": 259,
+    "unit_cost": 56.27,
+    "turnover_rate": 1.512
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0019",
+    "date": "2024-01-01",
+    "qty": 348,
+    "unit_cost": 734.41,
+    "turnover_rate": 1.265
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0019",
+    "date": "2024-01-01",
+    "qty": 356,
+    "unit_cost": 734.41,
+    "turnover_rate": 2.438
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0019",
+    "date": "2024-03-01",
+    "qty": 367,
+    "unit_cost": 734.41,
+    "turnover_rate": 2.45
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0019",
+    "date": "2024-03-01",
+    "qty": 352,
+    "unit_cost": 734.41,
+    "turnover_rate": 1.57
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0019",
+    "date": "2024-04-01",
+    "qty": 348,
+    "unit_cost": 734.41,
+    "turnover_rate": 1.027
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0019",
+    "date": "2024-05-01",
+    "qty": 364,
+    "unit_cost": 734.41,
+    "turnover_rate": 1.502
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0019",
+    "date": "2024-06-01",
+    "qty": 364,
+    "unit_cost": 734.41,
+    "turnover_rate": 1.99
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0019",
+    "date": "2024-07-01",
+    "qty": 353,
+    "unit_cost": 734.41,
+    "turnover_rate": 2.072
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0019",
+    "date": "2024-08-01",
+    "qty": 353,
+    "unit_cost": 734.41,
+    "turnover_rate": 1.308
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0019",
+    "date": "2024-09-01",
+    "qty": 364,
+    "unit_cost": 734.41,
+    "turnover_rate": 1.993
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0019",
+    "date": "2024-10-01",
+    "qty": 339,
+    "unit_cost": 734.41,
+    "turnover_rate": 2.263
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0019",
+    "date": "2024-11-01",
+    "qty": 339,
+    "unit_cost": 734.41,
+    "turnover_rate": 2.01
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0019",
+    "date": "2024-12-01",
+    "qty": 350,
+    "unit_cost": 734.41,
+    "turnover_rate": 2.39
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0019",
+    "date": "2025-01-01",
+    "qty": 357,
+    "unit_cost": 734.41,
+    "turnover_rate": 1.875
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0019",
+    "date": "2025-02-01",
+    "qty": 365,
+    "unit_cost": 734.41,
+    "turnover_rate": 1.142
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0019",
+    "date": "2025-03-01",
+    "qty": 383,
+    "unit_cost": 734.41,
+    "turnover_rate": 1.861
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0019",
+    "date": "2025-04-01",
+    "qty": 373,
+    "unit_cost": 734.41,
+    "turnover_rate": 1.294
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0019",
+    "date": "2025-05-01",
+    "qty": 358,
+    "unit_cost": 734.41,
+    "turnover_rate": 1.387
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0019",
+    "date": "2025-06-01",
+    "qty": 360,
+    "unit_cost": 734.41,
+    "turnover_rate": 1.943
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0019",
+    "date": "2025-07-01",
+    "qty": 345,
+    "unit_cost": 734.41,
+    "turnover_rate": 2.468
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0019",
+    "date": "2025-08-01",
+    "qty": 360,
+    "unit_cost": 734.41,
+    "turnover_rate": 1.905
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0019",
+    "date": "2025-09-01",
+    "qty": 356,
+    "unit_cost": 734.41,
+    "turnover_rate": 2.429
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0019",
+    "date": "2025-10-01",
+    "qty": 365,
+    "unit_cost": 734.41,
+    "turnover_rate": 1.657
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0019",
+    "date": "2025-11-01",
+    "qty": 348,
+    "unit_cost": 734.41,
+    "turnover_rate": 1.98
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0020",
+    "date": "2024-01-01",
+    "qty": 222,
+    "unit_cost": 574.08,
+    "turnover_rate": 1.756
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0020",
+    "date": "2024-01-01",
+    "qty": 237,
+    "unit_cost": 574.08,
+    "turnover_rate": 1.791
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0020",
+    "date": "2024-03-01",
+    "qty": 213,
+    "unit_cost": 574.08,
+    "turnover_rate": 2.403
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0020",
+    "date": "2024-03-01",
+    "qty": 221,
+    "unit_cost": 574.08,
+    "turnover_rate": 2.007
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0020",
+    "date": "2024-04-01",
+    "qty": 225,
+    "unit_cost": 574.08,
+    "turnover_rate": 1.946
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0020",
+    "date": "2024-05-01",
+    "qty": 208,
+    "unit_cost": 574.08,
+    "turnover_rate": 2.32
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0020",
+    "date": "2024-06-01",
+    "qty": 218,
+    "unit_cost": 574.08,
+    "turnover_rate": 1.708
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0020",
+    "date": "2024-07-01",
+    "qty": 215,
+    "unit_cost": 574.08,
+    "turnover_rate": 2.292
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0020",
+    "date": "2024-08-01",
+    "qty": 216,
+    "unit_cost": 574.08,
+    "turnover_rate": 1.518
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0020",
+    "date": "2024-09-01",
+    "qty": 203,
+    "unit_cost": 574.08,
+    "turnover_rate": 0.822
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0020",
+    "date": "2024-10-01",
+    "qty": 215,
+    "unit_cost": 574.08,
+    "turnover_rate": 0.981
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0020",
+    "date": "2024-11-01",
+    "qty": 222,
+    "unit_cost": 574.08,
+    "turnover_rate": 1.447
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0020",
+    "date": "2024-12-01",
+    "qty": 236,
+    "unit_cost": 574.08,
+    "turnover_rate": 0.89
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0020",
+    "date": "2025-01-01",
+    "qty": 229,
+    "unit_cost": 574.08,
+    "turnover_rate": 0.896
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0020",
+    "date": "2025-02-01",
+    "qty": 247,
+    "unit_cost": 574.08,
+    "turnover_rate": 1.254
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0020",
+    "date": "2025-03-01",
+    "qty": 203,
+    "unit_cost": 574.08,
+    "turnover_rate": 2.135
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0020",
+    "date": "2025-04-01",
+    "qty": 228,
+    "unit_cost": 574.08,
+    "turnover_rate": 2.472
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0020",
+    "date": "2025-05-01",
+    "qty": 217,
+    "unit_cost": 574.08,
+    "turnover_rate": 1.962
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0020",
+    "date": "2025-06-01",
+    "qty": 247,
+    "unit_cost": 574.08,
+    "turnover_rate": 1.049
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0020",
+    "date": "2025-07-01",
+    "qty": 202,
+    "unit_cost": 574.08,
+    "turnover_rate": 0.905
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0020",
+    "date": "2025-08-01",
+    "qty": 202,
+    "unit_cost": 574.08,
+    "turnover_rate": 2.133
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0020",
+    "date": "2025-09-01",
+    "qty": 206,
+    "unit_cost": 574.08,
+    "turnover_rate": 1.147
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0020",
+    "date": "2025-10-01",
+    "qty": 183,
+    "unit_cost": 574.08,
+    "turnover_rate": 1.72
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0020",
+    "date": "2025-11-01",
+    "qty": 207,
+    "unit_cost": 574.08,
+    "turnover_rate": 1.41
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0021",
+    "date": "2024-01-01",
+    "qty": 269,
+    "unit_cost": 99.93,
+    "turnover_rate": 2.057
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0021",
+    "date": "2024-01-01",
+    "qty": 283,
+    "unit_cost": 99.93,
+    "turnover_rate": 2.27
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0021",
+    "date": "2024-03-01",
+    "qty": 286,
+    "unit_cost": 99.93,
+    "turnover_rate": 2.062
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0021",
+    "date": "2024-03-01",
+    "qty": 309,
+    "unit_cost": 99.93,
+    "turnover_rate": 1.754
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0021",
+    "date": "2024-04-01",
+    "qty": 295,
+    "unit_cost": 99.93,
+    "turnover_rate": 1.204
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0021",
+    "date": "2024-05-01",
+    "qty": 272,
+    "unit_cost": 99.93,
+    "turnover_rate": 2.133
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0021",
+    "date": "2024-06-01",
+    "qty": 267,
+    "unit_cost": 99.93,
+    "turnover_rate": 2.158
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0021",
+    "date": "2024-07-01",
+    "qty": 288,
+    "unit_cost": 99.93,
+    "turnover_rate": 1.289
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0021",
+    "date": "2024-08-01",
+    "qty": 261,
+    "unit_cost": 99.93,
+    "turnover_rate": 1.93
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0021",
+    "date": "2024-09-01",
+    "qty": 308,
+    "unit_cost": 99.93,
+    "turnover_rate": 2.375
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0021",
+    "date": "2024-10-01",
+    "qty": 298,
+    "unit_cost": 99.93,
+    "turnover_rate": 1.459
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0021",
+    "date": "2024-11-01",
+    "qty": 273,
+    "unit_cost": 99.93,
+    "turnover_rate": 2.426
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0021",
+    "date": "2024-12-01",
+    "qty": 255,
+    "unit_cost": 99.93,
+    "turnover_rate": 2.459
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0021",
+    "date": "2025-01-01",
+    "qty": 301,
+    "unit_cost": 99.93,
+    "turnover_rate": 1.332
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0021",
+    "date": "2025-02-01",
+    "qty": 279,
+    "unit_cost": 99.93,
+    "turnover_rate": 1.739
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0021",
+    "date": "2025-03-01",
+    "qty": 299,
+    "unit_cost": 99.93,
+    "turnover_rate": 0.822
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0021",
+    "date": "2025-04-01",
+    "qty": 257,
+    "unit_cost": 99.93,
+    "turnover_rate": 1.227
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0021",
+    "date": "2025-05-01",
+    "qty": 272,
+    "unit_cost": 99.93,
+    "turnover_rate": 1.855
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0021",
+    "date": "2025-06-01",
+    "qty": 281,
+    "unit_cost": 99.93,
+    "turnover_rate": 2.128
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0021",
+    "date": "2025-07-01",
+    "qty": 281,
+    "unit_cost": 99.93,
+    "turnover_rate": 2.279
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0021",
+    "date": "2025-08-01",
+    "qty": 274,
+    "unit_cost": 99.93,
+    "turnover_rate": 2.211
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0021",
+    "date": "2025-09-01",
+    "qty": 290,
+    "unit_cost": 99.93,
+    "turnover_rate": 2.35
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0021",
+    "date": "2025-10-01",
+    "qty": 264,
+    "unit_cost": 99.93,
+    "turnover_rate": 1.998
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0021",
+    "date": "2025-11-01",
+    "qty": 278,
+    "unit_cost": 99.93,
+    "turnover_rate": 1.901
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0022",
+    "date": "2024-01-01",
+    "qty": 437,
+    "unit_cost": 478.94,
+    "turnover_rate": 1.134
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0022",
+    "date": "2024-01-01",
+    "qty": 443,
+    "unit_cost": 478.94,
+    "turnover_rate": 2.032
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0022",
+    "date": "2024-03-01",
+    "qty": 446,
+    "unit_cost": 478.94,
+    "turnover_rate": 1.129
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0022",
+    "date": "2024-03-01",
+    "qty": 419,
+    "unit_cost": 478.94,
+    "turnover_rate": 1.563
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0022",
+    "date": "2024-04-01",
+    "qty": 412,
+    "unit_cost": 478.94,
+    "turnover_rate": 2.472
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0022",
+    "date": "2024-05-01",
+    "qty": 455,
+    "unit_cost": 478.94,
+    "turnover_rate": 0.927
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0022",
+    "date": "2024-06-01",
+    "qty": 440,
+    "unit_cost": 478.94,
+    "turnover_rate": 2.436
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0022",
+    "date": "2024-07-01",
+    "qty": 424,
+    "unit_cost": 478.94,
+    "turnover_rate": 2.05
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0022",
+    "date": "2024-08-01",
+    "qty": 459,
+    "unit_cost": 478.94,
+    "turnover_rate": 1.003
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0022",
+    "date": "2024-09-01",
+    "qty": 437,
+    "unit_cost": 478.94,
+    "turnover_rate": 0.869
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0022",
+    "date": "2024-10-01",
+    "qty": 453,
+    "unit_cost": 478.94,
+    "turnover_rate": 1.274
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0022",
+    "date": "2024-11-01",
+    "qty": 437,
+    "unit_cost": 478.94,
+    "turnover_rate": 1.249
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0022",
+    "date": "2024-12-01",
+    "qty": 466,
+    "unit_cost": 478.94,
+    "turnover_rate": 1.074
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0022",
+    "date": "2025-01-01",
+    "qty": 462,
+    "unit_cost": 478.94,
+    "turnover_rate": 2.238
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0022",
+    "date": "2025-02-01",
+    "qty": 432,
+    "unit_cost": 478.94,
+    "turnover_rate": 0.81
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0022",
+    "date": "2025-03-01",
+    "qty": 450,
+    "unit_cost": 478.94,
+    "turnover_rate": 1.593
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0022",
+    "date": "2025-04-01",
+    "qty": 445,
+    "unit_cost": 478.94,
+    "turnover_rate": 2.394
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0022",
+    "date": "2025-05-01",
+    "qty": 456,
+    "unit_cost": 478.94,
+    "turnover_rate": 0.868
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0022",
+    "date": "2025-06-01",
+    "qty": 421,
+    "unit_cost": 478.94,
+    "turnover_rate": 2.379
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0022",
+    "date": "2025-07-01",
+    "qty": 446,
+    "unit_cost": 478.94,
+    "turnover_rate": 1.815
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0022",
+    "date": "2025-08-01",
+    "qty": 451,
+    "unit_cost": 478.94,
+    "turnover_rate": 2.115
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0022",
+    "date": "2025-09-01",
+    "qty": 409,
+    "unit_cost": 478.94,
+    "turnover_rate": 1.863
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0022",
+    "date": "2025-10-01",
+    "qty": 418,
+    "unit_cost": 478.94,
+    "turnover_rate": 2.233
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0022",
+    "date": "2025-11-01",
+    "qty": 405,
+    "unit_cost": 478.94,
+    "turnover_rate": 1.312
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0023",
+    "date": "2024-01-01",
+    "qty": 449,
+    "unit_cost": 466.69,
+    "turnover_rate": 2.133
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0023",
+    "date": "2024-01-01",
+    "qty": 464,
+    "unit_cost": 466.69,
+    "turnover_rate": 1.34
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0023",
+    "date": "2024-03-01",
+    "qty": 476,
+    "unit_cost": 466.69,
+    "turnover_rate": 1.174
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0023",
+    "date": "2024-03-01",
+    "qty": 455,
+    "unit_cost": 466.69,
+    "turnover_rate": 1.113
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0023",
+    "date": "2024-04-01",
+    "qty": 478,
+    "unit_cost": 466.69,
+    "turnover_rate": 0.916
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0023",
+    "date": "2024-05-01",
+    "qty": 433,
+    "unit_cost": 466.69,
+    "turnover_rate": 1.659
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0023",
+    "date": "2024-06-01",
+    "qty": 428,
+    "unit_cost": 466.69,
+    "turnover_rate": 1.507
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0023",
+    "date": "2024-07-01",
+    "qty": 453,
+    "unit_cost": 466.69,
+    "turnover_rate": 1.713
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0023",
+    "date": "2024-08-01",
+    "qty": 459,
+    "unit_cost": 466.69,
+    "turnover_rate": 0.956
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0023",
+    "date": "2024-09-01",
+    "qty": 453,
+    "unit_cost": 466.69,
+    "turnover_rate": 1.176
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0023",
+    "date": "2024-10-01",
+    "qty": 422,
+    "unit_cost": 466.69,
+    "turnover_rate": 1.163
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0023",
+    "date": "2024-11-01",
+    "qty": 452,
+    "unit_cost": 466.69,
+    "turnover_rate": 1.364
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0023",
+    "date": "2024-12-01",
+    "qty": 434,
+    "unit_cost": 466.69,
+    "turnover_rate": 1.413
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0023",
+    "date": "2025-01-01",
+    "qty": 464,
+    "unit_cost": 466.69,
+    "turnover_rate": 1.171
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0023",
+    "date": "2025-02-01",
+    "qty": 459,
+    "unit_cost": 466.69,
+    "turnover_rate": 2.08
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0023",
+    "date": "2025-03-01",
+    "qty": 439,
+    "unit_cost": 466.69,
+    "turnover_rate": 1.702
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0023",
+    "date": "2025-04-01",
+    "qty": 446,
+    "unit_cost": 466.69,
+    "turnover_rate": 2.494
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0023",
+    "date": "2025-05-01",
+    "qty": 438,
+    "unit_cost": 466.69,
+    "turnover_rate": 2.2
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0023",
+    "date": "2025-06-01",
+    "qty": 453,
+    "unit_cost": 466.69,
+    "turnover_rate": 2.468
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0023",
+    "date": "2025-07-01",
+    "qty": 468,
+    "unit_cost": 466.69,
+    "turnover_rate": 0.815
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0023",
+    "date": "2025-08-01",
+    "qty": 439,
+    "unit_cost": 466.69,
+    "turnover_rate": 1.937
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0023",
+    "date": "2025-09-01",
+    "qty": 461,
+    "unit_cost": 466.69,
+    "turnover_rate": 1.558
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0023",
+    "date": "2025-10-01",
+    "qty": 446,
+    "unit_cost": 466.69,
+    "turnover_rate": 2.338
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0023",
+    "date": "2025-11-01",
+    "qty": 442,
+    "unit_cost": 466.69,
+    "turnover_rate": 1.843
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0024",
+    "date": "2024-01-01",
+    "qty": 368,
+    "unit_cost": 210.19,
+    "turnover_rate": 0.145
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0024",
+    "date": "2024-01-01",
+    "qty": 368,
+    "unit_cost": 210.19,
+    "turnover_rate": 0.146
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0024",
+    "date": "2024-03-01",
+    "qty": 364,
+    "unit_cost": 210.19,
+    "turnover_rate": 0.231
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0024",
+    "date": "2024-03-01",
+    "qty": 368,
+    "unit_cost": 210.19,
+    "turnover_rate": 0.278
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0024",
+    "date": "2024-04-01",
+    "qty": 364,
+    "unit_cost": 210.19,
+    "turnover_rate": 0.179
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0024",
+    "date": "2024-05-01",
+    "qty": 358,
+    "unit_cost": 210.19,
+    "turnover_rate": 0.161
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0024",
+    "date": "2024-06-01",
+    "qty": 368,
+    "unit_cost": 210.19,
+    "turnover_rate": 0.124
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0024",
+    "date": "2024-07-01",
+    "qty": 354,
+    "unit_cost": 210.19,
+    "turnover_rate": 0.098
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0024",
+    "date": "2024-08-01",
+    "qty": 352,
+    "unit_cost": 210.19,
+    "turnover_rate": 0.071
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0024",
+    "date": "2024-09-01",
+    "qty": 368,
+    "unit_cost": 210.19,
+    "turnover_rate": 0.092
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0024",
+    "date": "2024-10-01",
+    "qty": 348,
+    "unit_cost": 210.19,
+    "turnover_rate": 0.183
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0024",
+    "date": "2024-11-01",
+    "qty": 346,
+    "unit_cost": 210.19,
+    "turnover_rate": 0.066
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0024",
+    "date": "2024-12-01",
+    "qty": 344,
+    "unit_cost": 210.19,
+    "turnover_rate": 0.207
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0024",
+    "date": "2025-01-01",
+    "qty": 368,
+    "unit_cost": 210.19,
+    "turnover_rate": 0.266
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0024",
+    "date": "2025-02-01",
+    "qty": 354,
+    "unit_cost": 210.19,
+    "turnover_rate": 0.259
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0024",
+    "date": "2025-03-01",
+    "qty": 368,
+    "unit_cost": 210.19,
+    "turnover_rate": 0.184
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0024",
+    "date": "2025-04-01",
+    "qty": 336,
+    "unit_cost": 210.19,
+    "turnover_rate": 0.27
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0024",
+    "date": "2025-05-01",
+    "qty": 334,
+    "unit_cost": 210.19,
+    "turnover_rate": 0.244
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0024",
+    "date": "2025-06-01",
+    "qty": 332,
+    "unit_cost": 210.19,
+    "turnover_rate": 0.254
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0024",
+    "date": "2025-07-01",
+    "qty": 368,
+    "unit_cost": 210.19,
+    "turnover_rate": 0.237
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0024",
+    "date": "2025-08-01",
+    "qty": 368,
+    "unit_cost": 210.19,
+    "turnover_rate": 0.056
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0024",
+    "date": "2025-09-01",
+    "qty": 326,
+    "unit_cost": 210.19,
+    "turnover_rate": 0.133
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0024",
+    "date": "2025-10-01",
+    "qty": 368,
+    "unit_cost": 210.19,
+    "turnover_rate": 0.068
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0024",
+    "date": "2025-11-01",
+    "qty": 368,
+    "unit_cost": 210.19,
+    "turnover_rate": 0.249
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0025",
+    "date": "2024-01-01",
+    "qty": 333,
+    "unit_cost": 74.94,
+    "turnover_rate": 2.349
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0025",
+    "date": "2024-01-01",
+    "qty": 319,
+    "unit_cost": 74.94,
+    "turnover_rate": 1.493
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0025",
+    "date": "2024-03-01",
+    "qty": 326,
+    "unit_cost": 74.94,
+    "turnover_rate": 1.567
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0025",
+    "date": "2024-03-01",
+    "qty": 317,
+    "unit_cost": 74.94,
+    "turnover_rate": 1.488
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0025",
+    "date": "2024-04-01",
+    "qty": 364,
+    "unit_cost": 74.94,
+    "turnover_rate": 1.338
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0025",
+    "date": "2024-05-01",
+    "qty": 335,
+    "unit_cost": 74.94,
+    "turnover_rate": 1.462
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0025",
+    "date": "2024-06-01",
+    "qty": 324,
+    "unit_cost": 74.94,
+    "turnover_rate": 1.001
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0025",
+    "date": "2024-07-01",
+    "qty": 338,
+    "unit_cost": 74.94,
+    "turnover_rate": 0.81
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0025",
+    "date": "2024-08-01",
+    "qty": 333,
+    "unit_cost": 74.94,
+    "turnover_rate": 2.024
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0025",
+    "date": "2024-09-01",
+    "qty": 331,
+    "unit_cost": 74.94,
+    "turnover_rate": 0.908
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0025",
+    "date": "2024-10-01",
+    "qty": 344,
+    "unit_cost": 74.94,
+    "turnover_rate": 2.068
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0025",
+    "date": "2024-11-01",
+    "qty": 346,
+    "unit_cost": 74.94,
+    "turnover_rate": 0.877
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0025",
+    "date": "2024-12-01",
+    "qty": 327,
+    "unit_cost": 74.94,
+    "turnover_rate": 2.242
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0025",
+    "date": "2025-01-01",
+    "qty": 326,
+    "unit_cost": 74.94,
+    "turnover_rate": 1.408
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0025",
+    "date": "2025-02-01",
+    "qty": 330,
+    "unit_cost": 74.94,
+    "turnover_rate": 1.655
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0025",
+    "date": "2025-03-01",
+    "qty": 300,
+    "unit_cost": 74.94,
+    "turnover_rate": 1.293
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0025",
+    "date": "2025-04-01",
+    "qty": 312,
+    "unit_cost": 74.94,
+    "turnover_rate": 1.966
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0025",
+    "date": "2025-05-01",
+    "qty": 355,
+    "unit_cost": 74.94,
+    "turnover_rate": 1.831
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0025",
+    "date": "2025-06-01",
+    "qty": 359,
+    "unit_cost": 74.94,
+    "turnover_rate": 1.279
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0025",
+    "date": "2025-07-01",
+    "qty": 331,
+    "unit_cost": 74.94,
+    "turnover_rate": 2.375
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0025",
+    "date": "2025-08-01",
+    "qty": 343,
+    "unit_cost": 74.94,
+    "turnover_rate": 1.448
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0025",
+    "date": "2025-09-01",
+    "qty": 339,
+    "unit_cost": 74.94,
+    "turnover_rate": 2.198
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0025",
+    "date": "2025-10-01",
+    "qty": 381,
+    "unit_cost": 74.94,
+    "turnover_rate": 0.852
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0025",
+    "date": "2025-11-01",
+    "qty": 351,
+    "unit_cost": 74.94,
+    "turnover_rate": 1.066
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0026",
+    "date": "2024-01-01",
+    "qty": 160,
+    "unit_cost": 126.38,
+    "turnover_rate": 2.156
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0026",
+    "date": "2024-01-01",
+    "qty": 147,
+    "unit_cost": 126.38,
+    "turnover_rate": 1.728
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0026",
+    "date": "2024-03-01",
+    "qty": 137,
+    "unit_cost": 126.38,
+    "turnover_rate": 2.432
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0026",
+    "date": "2024-03-01",
+    "qty": 165,
+    "unit_cost": 126.38,
+    "turnover_rate": 1.045
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0026",
+    "date": "2024-04-01",
+    "qty": 150,
+    "unit_cost": 126.38,
+    "turnover_rate": 1.951
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0026",
+    "date": "2024-05-01",
+    "qty": 140,
+    "unit_cost": 126.38,
+    "turnover_rate": 2.354
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0026",
+    "date": "2024-06-01",
+    "qty": 152,
+    "unit_cost": 126.38,
+    "turnover_rate": 2.152
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0026",
+    "date": "2024-07-01",
+    "qty": 145,
+    "unit_cost": 126.38,
+    "turnover_rate": 2.04
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0026",
+    "date": "2024-08-01",
+    "qty": 187,
+    "unit_cost": 126.38,
+    "turnover_rate": 1.434
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0026",
+    "date": "2024-09-01",
+    "qty": 175,
+    "unit_cost": 126.38,
+    "turnover_rate": 2.414
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0026",
+    "date": "2024-10-01",
+    "qty": 161,
+    "unit_cost": 126.38,
+    "turnover_rate": 1.741
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0026",
+    "date": "2024-11-01",
+    "qty": 184,
+    "unit_cost": 126.38,
+    "turnover_rate": 1.744
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0026",
+    "date": "2024-12-01",
+    "qty": 163,
+    "unit_cost": 126.38,
+    "turnover_rate": 1.009
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0026",
+    "date": "2025-01-01",
+    "qty": 149,
+    "unit_cost": 126.38,
+    "turnover_rate": 0.809
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0026",
+    "date": "2025-02-01",
+    "qty": 184,
+    "unit_cost": 126.38,
+    "turnover_rate": 1.814
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0026",
+    "date": "2025-03-01",
+    "qty": 170,
+    "unit_cost": 126.38,
+    "turnover_rate": 1.713
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0026",
+    "date": "2025-04-01",
+    "qty": 146,
+    "unit_cost": 126.38,
+    "turnover_rate": 2.41
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0026",
+    "date": "2025-05-01",
+    "qty": 159,
+    "unit_cost": 126.38,
+    "turnover_rate": 1.318
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0026",
+    "date": "2025-06-01",
+    "qty": 148,
+    "unit_cost": 126.38,
+    "turnover_rate": 2.072
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0026",
+    "date": "2025-07-01",
+    "qty": 141,
+    "unit_cost": 126.38,
+    "turnover_rate": 2.336
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0026",
+    "date": "2025-08-01",
+    "qty": 175,
+    "unit_cost": 126.38,
+    "turnover_rate": 1.385
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0026",
+    "date": "2025-09-01",
+    "qty": 190,
+    "unit_cost": 126.38,
+    "turnover_rate": 1.502
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0026",
+    "date": "2025-10-01",
+    "qty": 141,
+    "unit_cost": 126.38,
+    "turnover_rate": 1.898
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0026",
+    "date": "2025-11-01",
+    "qty": 170,
+    "unit_cost": 126.38,
+    "turnover_rate": 1.671
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0027",
+    "date": "2024-01-01",
+    "qty": 122,
+    "unit_cost": 163.51,
+    "turnover_rate": 1.23
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0027",
+    "date": "2024-01-01",
+    "qty": 124,
+    "unit_cost": 163.51,
+    "turnover_rate": 0.995
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0027",
+    "date": "2024-03-01",
+    "qty": 123,
+    "unit_cost": 163.51,
+    "turnover_rate": 1.941
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0027",
+    "date": "2024-03-01",
+    "qty": 119,
+    "unit_cost": 163.51,
+    "turnover_rate": 1.764
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0027",
+    "date": "2024-04-01",
+    "qty": 132,
+    "unit_cost": 163.51,
+    "turnover_rate": 0.892
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0027",
+    "date": "2024-05-01",
+    "qty": 119,
+    "unit_cost": 163.51,
+    "turnover_rate": 2.077
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0027",
+    "date": "2024-06-01",
+    "qty": 136,
+    "unit_cost": 163.51,
+    "turnover_rate": 2.483
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0027",
+    "date": "2024-07-01",
+    "qty": 131,
+    "unit_cost": 163.51,
+    "turnover_rate": 1.733
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0027",
+    "date": "2024-08-01",
+    "qty": 128,
+    "unit_cost": 163.51,
+    "turnover_rate": 1.896
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0027",
+    "date": "2024-09-01",
+    "qty": 118,
+    "unit_cost": 163.51,
+    "turnover_rate": 0.924
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0027",
+    "date": "2024-10-01",
+    "qty": 123,
+    "unit_cost": 163.51,
+    "turnover_rate": 1.942
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0027",
+    "date": "2024-11-01",
+    "qty": 143,
+    "unit_cost": 163.51,
+    "turnover_rate": 1.226
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0027",
+    "date": "2024-12-01",
+    "qty": 139,
+    "unit_cost": 163.51,
+    "turnover_rate": 1.136
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0027",
+    "date": "2025-01-01",
+    "qty": 117,
+    "unit_cost": 163.51,
+    "turnover_rate": 1.787
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0027",
+    "date": "2025-02-01",
+    "qty": 133,
+    "unit_cost": 163.51,
+    "turnover_rate": 2.418
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0027",
+    "date": "2025-03-01",
+    "qty": 143,
+    "unit_cost": 163.51,
+    "turnover_rate": 1.407
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0027",
+    "date": "2025-04-01",
+    "qty": 106,
+    "unit_cost": 163.51,
+    "turnover_rate": 1.941
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0027",
+    "date": "2025-05-01",
+    "qty": 140,
+    "unit_cost": 163.51,
+    "turnover_rate": 1.199
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0027",
+    "date": "2025-06-01",
+    "qty": 122,
+    "unit_cost": 163.51,
+    "turnover_rate": 1.285
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0027",
+    "date": "2025-07-01",
+    "qty": 140,
+    "unit_cost": 163.51,
+    "turnover_rate": 0.919
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0027",
+    "date": "2025-08-01",
+    "qty": 120,
+    "unit_cost": 163.51,
+    "turnover_rate": 1.129
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0027",
+    "date": "2025-09-01",
+    "qty": 104,
+    "unit_cost": 163.51,
+    "turnover_rate": 1.626
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0027",
+    "date": "2025-10-01",
+    "qty": 107,
+    "unit_cost": 163.51,
+    "turnover_rate": 1.358
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0027",
+    "date": "2025-11-01",
+    "qty": 132,
+    "unit_cost": 163.51,
+    "turnover_rate": 1.921
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0028",
+    "date": "2024-01-01",
+    "qty": 408,
+    "unit_cost": 475.65,
+    "turnover_rate": 1.42
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0028",
+    "date": "2024-01-01",
+    "qty": 391,
+    "unit_cost": 475.65,
+    "turnover_rate": 1.338
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0028",
+    "date": "2024-03-01",
+    "qty": 414,
+    "unit_cost": 475.65,
+    "turnover_rate": 1.528
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0028",
+    "date": "2024-03-01",
+    "qty": 380,
+    "unit_cost": 475.65,
+    "turnover_rate": 0.808
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0028",
+    "date": "2024-04-01",
+    "qty": 404,
+    "unit_cost": 475.65,
+    "turnover_rate": 1.218
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0028",
+    "date": "2024-05-01",
+    "qty": 386,
+    "unit_cost": 475.65,
+    "turnover_rate": 1.177
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0028",
+    "date": "2024-06-01",
+    "qty": 395,
+    "unit_cost": 475.65,
+    "turnover_rate": 2.058
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0028",
+    "date": "2024-07-01",
+    "qty": 405,
+    "unit_cost": 475.65,
+    "turnover_rate": 1.541
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0028",
+    "date": "2024-08-01",
+    "qty": 392,
+    "unit_cost": 475.65,
+    "turnover_rate": 2.228
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0028",
+    "date": "2024-09-01",
+    "qty": 399,
+    "unit_cost": 475.65,
+    "turnover_rate": 1.028
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0028",
+    "date": "2024-10-01",
+    "qty": 420,
+    "unit_cost": 475.65,
+    "turnover_rate": 2.046
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0028",
+    "date": "2024-11-01",
+    "qty": 396,
+    "unit_cost": 475.65,
+    "turnover_rate": 2.292
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0028",
+    "date": "2024-12-01",
+    "qty": 417,
+    "unit_cost": 475.65,
+    "turnover_rate": 1.587
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0028",
+    "date": "2025-01-01",
+    "qty": 388,
+    "unit_cost": 475.65,
+    "turnover_rate": 1.41
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0028",
+    "date": "2025-02-01",
+    "qty": 412,
+    "unit_cost": 475.65,
+    "turnover_rate": 1.319
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0028",
+    "date": "2025-03-01",
+    "qty": 426,
+    "unit_cost": 475.65,
+    "turnover_rate": 1.738
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0028",
+    "date": "2025-04-01",
+    "qty": 367,
+    "unit_cost": 475.65,
+    "turnover_rate": 1.099
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0028",
+    "date": "2025-05-01",
+    "qty": 393,
+    "unit_cost": 475.65,
+    "turnover_rate": 1.831
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0028",
+    "date": "2025-06-01",
+    "qty": 413,
+    "unit_cost": 475.65,
+    "turnover_rate": 2.231
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0028",
+    "date": "2025-07-01",
+    "qty": 401,
+    "unit_cost": 475.65,
+    "turnover_rate": 2.26
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0028",
+    "date": "2025-08-01",
+    "qty": 410,
+    "unit_cost": 475.65,
+    "turnover_rate": 1.038
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0028",
+    "date": "2025-09-01",
+    "qty": 395,
+    "unit_cost": 475.65,
+    "turnover_rate": 1.716
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0028",
+    "date": "2025-10-01",
+    "qty": 406,
+    "unit_cost": 475.65,
+    "turnover_rate": 1.247
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0028",
+    "date": "2025-11-01",
+    "qty": 402,
+    "unit_cost": 475.65,
+    "turnover_rate": 2.307
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0029",
+    "date": "2024-01-01",
+    "qty": 106,
+    "unit_cost": 587.39,
+    "turnover_rate": 2.244
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0029",
+    "date": "2024-01-01",
+    "qty": 92,
+    "unit_cost": 587.39,
+    "turnover_rate": 1.874
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0029",
+    "date": "2024-03-01",
+    "qty": 94,
+    "unit_cost": 587.39,
+    "turnover_rate": 2.181
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0029",
+    "date": "2024-03-01",
+    "qty": 82,
+    "unit_cost": 587.39,
+    "turnover_rate": 1.784
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0029",
+    "date": "2024-04-01",
+    "qty": 81,
+    "unit_cost": 587.39,
+    "turnover_rate": 2.108
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0029",
+    "date": "2024-05-01",
+    "qty": 82,
+    "unit_cost": 587.39,
+    "turnover_rate": 1.162
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0029",
+    "date": "2024-06-01",
+    "qty": 94,
+    "unit_cost": 587.39,
+    "turnover_rate": 0.862
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0029",
+    "date": "2024-07-01",
+    "qty": 82,
+    "unit_cost": 587.39,
+    "turnover_rate": 1.243
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0029",
+    "date": "2024-08-01",
+    "qty": 93,
+    "unit_cost": 587.39,
+    "turnover_rate": 2.32
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0029",
+    "date": "2024-09-01",
+    "qty": 120,
+    "unit_cost": 587.39,
+    "turnover_rate": 1.717
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0029",
+    "date": "2024-10-01",
+    "qty": 102,
+    "unit_cost": 587.39,
+    "turnover_rate": 1.912
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0029",
+    "date": "2024-11-01",
+    "qty": 84,
+    "unit_cost": 587.39,
+    "turnover_rate": 1.053
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0029",
+    "date": "2024-12-01",
+    "qty": 107,
+    "unit_cost": 587.39,
+    "turnover_rate": 1.467
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0029",
+    "date": "2025-01-01",
+    "qty": 82,
+    "unit_cost": 587.39,
+    "turnover_rate": 2.315
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0029",
+    "date": "2025-02-01",
+    "qty": 58,
+    "unit_cost": 587.39,
+    "turnover_rate": 1.802
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0029",
+    "date": "2025-03-01",
+    "qty": 73,
+    "unit_cost": 587.39,
+    "turnover_rate": 2.257
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0029",
+    "date": "2025-04-01",
+    "qty": 60,
+    "unit_cost": 587.39,
+    "turnover_rate": 1.028
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0029",
+    "date": "2025-05-01",
+    "qty": 83,
+    "unit_cost": 587.39,
+    "turnover_rate": 1.652
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0029",
+    "date": "2025-06-01",
+    "qty": 89,
+    "unit_cost": 587.39,
+    "turnover_rate": 0.954
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0029",
+    "date": "2025-07-01",
+    "qty": 114,
+    "unit_cost": 587.39,
+    "turnover_rate": 1.419
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0029",
+    "date": "2025-08-01",
+    "qty": 93,
+    "unit_cost": 587.39,
+    "turnover_rate": 0.818
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0029",
+    "date": "2025-09-01",
+    "qty": 85,
+    "unit_cost": 587.39,
+    "turnover_rate": 1.206
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0029",
+    "date": "2025-10-01",
+    "qty": 101,
+    "unit_cost": 587.39,
+    "turnover_rate": 2.439
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0029",
+    "date": "2025-11-01",
+    "qty": 55,
+    "unit_cost": 587.39,
+    "turnover_rate": 2.469
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0030",
+    "date": "2024-01-01",
+    "qty": 403,
+    "unit_cost": 149.36,
+    "turnover_rate": 1.559
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0030",
+    "date": "2024-01-01",
+    "qty": 411,
+    "unit_cost": 149.36,
+    "turnover_rate": 1.105
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0030",
+    "date": "2024-03-01",
+    "qty": 377,
+    "unit_cost": 149.36,
+    "turnover_rate": 2.413
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0030",
+    "date": "2024-03-01",
+    "qty": 417,
+    "unit_cost": 149.36,
+    "turnover_rate": 1.921
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0030",
+    "date": "2024-04-01",
+    "qty": 405,
+    "unit_cost": 149.36,
+    "turnover_rate": 2.445
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0030",
+    "date": "2024-05-01",
+    "qty": 393,
+    "unit_cost": 149.36,
+    "turnover_rate": 2.051
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0030",
+    "date": "2024-06-01",
+    "qty": 409,
+    "unit_cost": 149.36,
+    "turnover_rate": 1.622
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0030",
+    "date": "2024-07-01",
+    "qty": 434,
+    "unit_cost": 149.36,
+    "turnover_rate": 1.41
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0030",
+    "date": "2024-08-01",
+    "qty": 402,
+    "unit_cost": 149.36,
+    "turnover_rate": 1.172
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0030",
+    "date": "2024-09-01",
+    "qty": 403,
+    "unit_cost": 149.36,
+    "turnover_rate": 1.629
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0030",
+    "date": "2024-10-01",
+    "qty": 393,
+    "unit_cost": 149.36,
+    "turnover_rate": 0.907
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0030",
+    "date": "2024-11-01",
+    "qty": 387,
+    "unit_cost": 149.36,
+    "turnover_rate": 1.428
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0030",
+    "date": "2024-12-01",
+    "qty": 412,
+    "unit_cost": 149.36,
+    "turnover_rate": 0.873
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0030",
+    "date": "2025-01-01",
+    "qty": 387,
+    "unit_cost": 149.36,
+    "turnover_rate": 1.152
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0030",
+    "date": "2025-02-01",
+    "qty": 401,
+    "unit_cost": 149.36,
+    "turnover_rate": 2.343
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0030",
+    "date": "2025-03-01",
+    "qty": 392,
+    "unit_cost": 149.36,
+    "turnover_rate": 1.414
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0030",
+    "date": "2025-04-01",
+    "qty": 407,
+    "unit_cost": 149.36,
+    "turnover_rate": 1.598
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0030",
+    "date": "2025-05-01",
+    "qty": 405,
+    "unit_cost": 149.36,
+    "turnover_rate": 1.573
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0030",
+    "date": "2025-06-01",
+    "qty": 415,
+    "unit_cost": 149.36,
+    "turnover_rate": 0.879
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0030",
+    "date": "2025-07-01",
+    "qty": 392,
+    "unit_cost": 149.36,
+    "turnover_rate": 2.467
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0030",
+    "date": "2025-08-01",
+    "qty": 395,
+    "unit_cost": 149.36,
+    "turnover_rate": 1.351
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0030",
+    "date": "2025-09-01",
+    "qty": 385,
+    "unit_cost": 149.36,
+    "turnover_rate": 1.996
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0030",
+    "date": "2025-10-01",
+    "qty": 393,
+    "unit_cost": 149.36,
+    "turnover_rate": 1.686
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0030",
+    "date": "2025-11-01",
+    "qty": 405,
+    "unit_cost": 149.36,
+    "turnover_rate": 2.21
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0031",
+    "date": "2024-01-01",
+    "qty": 488,
+    "unit_cost": 598.69,
+    "turnover_rate": 1.769
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0031",
+    "date": "2024-01-01",
+    "qty": 463,
+    "unit_cost": 598.69,
+    "turnover_rate": 1.44
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0031",
+    "date": "2024-03-01",
+    "qty": 490,
+    "unit_cost": 598.69,
+    "turnover_rate": 1.443
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0031",
+    "date": "2024-03-01",
+    "qty": 497,
+    "unit_cost": 598.69,
+    "turnover_rate": 1.799
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0031",
+    "date": "2024-04-01",
+    "qty": 483,
+    "unit_cost": 598.69,
+    "turnover_rate": 2.327
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0031",
+    "date": "2024-05-01",
+    "qty": 505,
+    "unit_cost": 598.69,
+    "turnover_rate": 0.932
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0031",
+    "date": "2024-06-01",
+    "qty": 465,
+    "unit_cost": 598.69,
+    "turnover_rate": 1.228
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0031",
+    "date": "2024-07-01",
+    "qty": 458,
+    "unit_cost": 598.69,
+    "turnover_rate": 2.454
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0031",
+    "date": "2024-08-01",
+    "qty": 450,
+    "unit_cost": 598.69,
+    "turnover_rate": 1.179
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0031",
+    "date": "2024-09-01",
+    "qty": 499,
+    "unit_cost": 598.69,
+    "turnover_rate": 1.49
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0031",
+    "date": "2024-10-01",
+    "qty": 486,
+    "unit_cost": 598.69,
+    "turnover_rate": 2.189
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0031",
+    "date": "2024-11-01",
+    "qty": 476,
+    "unit_cost": 598.69,
+    "turnover_rate": 1.387
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0031",
+    "date": "2024-12-01",
+    "qty": 481,
+    "unit_cost": 598.69,
+    "turnover_rate": 2.148
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0031",
+    "date": "2025-01-01",
+    "qty": 460,
+    "unit_cost": 598.69,
+    "turnover_rate": 2.308
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0031",
+    "date": "2025-02-01",
+    "qty": 513,
+    "unit_cost": 598.69,
+    "turnover_rate": 0.811
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0031",
+    "date": "2025-03-01",
+    "qty": 478,
+    "unit_cost": 598.69,
+    "turnover_rate": 2.299
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0031",
+    "date": "2025-04-01",
+    "qty": 478,
+    "unit_cost": 598.69,
+    "turnover_rate": 1.548
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0031",
+    "date": "2025-05-01",
+    "qty": 487,
+    "unit_cost": 598.69,
+    "turnover_rate": 1.191
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0031",
+    "date": "2025-06-01",
+    "qty": 484,
+    "unit_cost": 598.69,
+    "turnover_rate": 1.675
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0031",
+    "date": "2025-07-01",
+    "qty": 480,
+    "unit_cost": 598.69,
+    "turnover_rate": 1.277
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0031",
+    "date": "2025-08-01",
+    "qty": 465,
+    "unit_cost": 598.69,
+    "turnover_rate": 1.055
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0031",
+    "date": "2025-09-01",
+    "qty": 484,
+    "unit_cost": 598.69,
+    "turnover_rate": 1.068
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0031",
+    "date": "2025-10-01",
+    "qty": 505,
+    "unit_cost": 598.69,
+    "turnover_rate": 1.823
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0031",
+    "date": "2025-11-01",
+    "qty": 497,
+    "unit_cost": 598.69,
+    "turnover_rate": 2.189
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0032",
+    "date": "2024-01-01",
+    "qty": 411,
+    "unit_cost": 199.67,
+    "turnover_rate": 2.024
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0032",
+    "date": "2024-01-01",
+    "qty": 380,
+    "unit_cost": 199.67,
+    "turnover_rate": 1.619
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0032",
+    "date": "2024-03-01",
+    "qty": 373,
+    "unit_cost": 199.67,
+    "turnover_rate": 1.614
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0032",
+    "date": "2024-03-01",
+    "qty": 386,
+    "unit_cost": 199.67,
+    "turnover_rate": 1.158
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0032",
+    "date": "2024-04-01",
+    "qty": 388,
+    "unit_cost": 199.67,
+    "turnover_rate": 1.074
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0032",
+    "date": "2024-05-01",
+    "qty": 404,
+    "unit_cost": 199.67,
+    "turnover_rate": 2.217
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0032",
+    "date": "2024-06-01",
+    "qty": 362,
+    "unit_cost": 199.67,
+    "turnover_rate": 0.838
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0032",
+    "date": "2024-07-01",
+    "qty": 410,
+    "unit_cost": 199.67,
+    "turnover_rate": 0.873
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0032",
+    "date": "2024-08-01",
+    "qty": 385,
+    "unit_cost": 199.67,
+    "turnover_rate": 1.775
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0032",
+    "date": "2024-09-01",
+    "qty": 381,
+    "unit_cost": 199.67,
+    "turnover_rate": 1.074
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0032",
+    "date": "2024-10-01",
+    "qty": 372,
+    "unit_cost": 199.67,
+    "turnover_rate": 1.87
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0032",
+    "date": "2024-11-01",
+    "qty": 363,
+    "unit_cost": 199.67,
+    "turnover_rate": 0.867
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0032",
+    "date": "2024-12-01",
+    "qty": 400,
+    "unit_cost": 199.67,
+    "turnover_rate": 1.773
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0032",
+    "date": "2025-01-01",
+    "qty": 389,
+    "unit_cost": 199.67,
+    "turnover_rate": 0.895
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0032",
+    "date": "2025-02-01",
+    "qty": 368,
+    "unit_cost": 199.67,
+    "turnover_rate": 1.239
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0032",
+    "date": "2025-03-01",
+    "qty": 368,
+    "unit_cost": 199.67,
+    "turnover_rate": 1.106
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0032",
+    "date": "2025-04-01",
+    "qty": 382,
+    "unit_cost": 199.67,
+    "turnover_rate": 2.429
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0032",
+    "date": "2025-05-01",
+    "qty": 413,
+    "unit_cost": 199.67,
+    "turnover_rate": 1.819
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0032",
+    "date": "2025-06-01",
+    "qty": 384,
+    "unit_cost": 199.67,
+    "turnover_rate": 1.758
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0032",
+    "date": "2025-07-01",
+    "qty": 365,
+    "unit_cost": 199.67,
+    "turnover_rate": 0.832
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0032",
+    "date": "2025-08-01",
+    "qty": 384,
+    "unit_cost": 199.67,
+    "turnover_rate": 2.023
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0032",
+    "date": "2025-09-01",
+    "qty": 383,
+    "unit_cost": 199.67,
+    "turnover_rate": 1.925
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0032",
+    "date": "2025-10-01",
+    "qty": 347,
+    "unit_cost": 199.67,
+    "turnover_rate": 1.282
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0032",
+    "date": "2025-11-01",
+    "qty": 387,
+    "unit_cost": 199.67,
+    "turnover_rate": 0.946
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0033",
+    "date": "2024-01-01",
+    "qty": 275,
+    "unit_cost": 493.09,
+    "turnover_rate": 1.619
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0033",
+    "date": "2024-01-01",
+    "qty": 289,
+    "unit_cost": 493.09,
+    "turnover_rate": 1.173
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0033",
+    "date": "2024-03-01",
+    "qty": 306,
+    "unit_cost": 493.09,
+    "turnover_rate": 1.498
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0033",
+    "date": "2024-03-01",
+    "qty": 295,
+    "unit_cost": 493.09,
+    "turnover_rate": 1.043
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0033",
+    "date": "2024-04-01",
+    "qty": 274,
+    "unit_cost": 493.09,
+    "turnover_rate": 1.79
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0033",
+    "date": "2024-05-01",
+    "qty": 262,
+    "unit_cost": 493.09,
+    "turnover_rate": 2.105
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0033",
+    "date": "2024-06-01",
+    "qty": 317,
+    "unit_cost": 493.09,
+    "turnover_rate": 1.859
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0033",
+    "date": "2024-07-01",
+    "qty": 279,
+    "unit_cost": 493.09,
+    "turnover_rate": 1.668
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0033",
+    "date": "2024-08-01",
+    "qty": 279,
+    "unit_cost": 493.09,
+    "turnover_rate": 1.085
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0033",
+    "date": "2024-09-01",
+    "qty": 278,
+    "unit_cost": 493.09,
+    "turnover_rate": 1.966
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0033",
+    "date": "2024-10-01",
+    "qty": 281,
+    "unit_cost": 493.09,
+    "turnover_rate": 2.368
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0033",
+    "date": "2024-11-01",
+    "qty": 276,
+    "unit_cost": 493.09,
+    "turnover_rate": 1.814
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0033",
+    "date": "2024-12-01",
+    "qty": 270,
+    "unit_cost": 493.09,
+    "turnover_rate": 0.917
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0033",
+    "date": "2025-01-01",
+    "qty": 270,
+    "unit_cost": 493.09,
+    "turnover_rate": 1.443
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0033",
+    "date": "2025-02-01",
+    "qty": 278,
+    "unit_cost": 493.09,
+    "turnover_rate": 1.025
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0033",
+    "date": "2025-03-01",
+    "qty": 270,
+    "unit_cost": 493.09,
+    "turnover_rate": 0.828
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0033",
+    "date": "2025-04-01",
+    "qty": 268,
+    "unit_cost": 493.09,
+    "turnover_rate": 1.689
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0033",
+    "date": "2025-05-01",
+    "qty": 280,
+    "unit_cost": 493.09,
+    "turnover_rate": 2.346
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0033",
+    "date": "2025-06-01",
+    "qty": 275,
+    "unit_cost": 493.09,
+    "turnover_rate": 1.963
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0033",
+    "date": "2025-07-01",
+    "qty": 301,
+    "unit_cost": 493.09,
+    "turnover_rate": 2.205
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0033",
+    "date": "2025-08-01",
+    "qty": 239,
+    "unit_cost": 493.09,
+    "turnover_rate": 1.829
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0033",
+    "date": "2025-09-01",
+    "qty": 295,
+    "unit_cost": 493.09,
+    "turnover_rate": 1.102
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0033",
+    "date": "2025-10-01",
+    "qty": 297,
+    "unit_cost": 493.09,
+    "turnover_rate": 2.333
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0033",
+    "date": "2025-11-01",
+    "qty": 247,
+    "unit_cost": 493.09,
+    "turnover_rate": 1.82
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0034",
+    "date": "2024-01-01",
+    "qty": 493,
+    "unit_cost": 631.42,
+    "turnover_rate": 1.0
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0034",
+    "date": "2024-01-01",
+    "qty": 493,
+    "unit_cost": 631.42,
+    "turnover_rate": 1.62
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0034",
+    "date": "2024-03-01",
+    "qty": 477,
+    "unit_cost": 631.42,
+    "turnover_rate": 1.022
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0034",
+    "date": "2024-03-01",
+    "qty": 487,
+    "unit_cost": 631.42,
+    "turnover_rate": 1.826
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0034",
+    "date": "2024-04-01",
+    "qty": 482,
+    "unit_cost": 631.42,
+    "turnover_rate": 2.207
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0034",
+    "date": "2024-05-01",
+    "qty": 525,
+    "unit_cost": 631.42,
+    "turnover_rate": 2.325
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0034",
+    "date": "2024-06-01",
+    "qty": 513,
+    "unit_cost": 631.42,
+    "turnover_rate": 2.117
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0034",
+    "date": "2024-07-01",
+    "qty": 518,
+    "unit_cost": 631.42,
+    "turnover_rate": 1.904
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0034",
+    "date": "2024-08-01",
+    "qty": 509,
+    "unit_cost": 631.42,
+    "turnover_rate": 1.687
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0034",
+    "date": "2024-09-01",
+    "qty": 482,
+    "unit_cost": 631.42,
+    "turnover_rate": 1.43
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0034",
+    "date": "2024-10-01",
+    "qty": 491,
+    "unit_cost": 631.42,
+    "turnover_rate": 0.874
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0034",
+    "date": "2024-11-01",
+    "qty": 506,
+    "unit_cost": 631.42,
+    "turnover_rate": 1.701
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0034",
+    "date": "2024-12-01",
+    "qty": 480,
+    "unit_cost": 631.42,
+    "turnover_rate": 1.19
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0034",
+    "date": "2025-01-01",
+    "qty": 509,
+    "unit_cost": 631.42,
+    "turnover_rate": 2.164
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0034",
+    "date": "2025-02-01",
+    "qty": 495,
+    "unit_cost": 631.42,
+    "turnover_rate": 2.142
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0034",
+    "date": "2025-03-01",
+    "qty": 493,
+    "unit_cost": 631.42,
+    "turnover_rate": 1.448
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0034",
+    "date": "2025-04-01",
+    "qty": 509,
+    "unit_cost": 631.42,
+    "turnover_rate": 1.801
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0034",
+    "date": "2025-05-01",
+    "qty": 505,
+    "unit_cost": 631.42,
+    "turnover_rate": 2.06
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0034",
+    "date": "2025-06-01",
+    "qty": 493,
+    "unit_cost": 631.42,
+    "turnover_rate": 2.095
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0034",
+    "date": "2025-07-01",
+    "qty": 516,
+    "unit_cost": 631.42,
+    "turnover_rate": 1.984
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0034",
+    "date": "2025-08-01",
+    "qty": 482,
+    "unit_cost": 631.42,
+    "turnover_rate": 0.966
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0034",
+    "date": "2025-09-01",
+    "qty": 508,
+    "unit_cost": 631.42,
+    "turnover_rate": 1.028
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0034",
+    "date": "2025-10-01",
+    "qty": 507,
+    "unit_cost": 631.42,
+    "turnover_rate": 1.611
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0034",
+    "date": "2025-11-01",
+    "qty": 494,
+    "unit_cost": 631.42,
+    "turnover_rate": 1.195
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0035",
+    "date": "2024-01-01",
+    "qty": 493,
+    "unit_cost": 85.38,
+    "turnover_rate": 1.724
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0035",
+    "date": "2024-01-01",
+    "qty": 470,
+    "unit_cost": 85.38,
+    "turnover_rate": 1.238
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0035",
+    "date": "2024-03-01",
+    "qty": 502,
+    "unit_cost": 85.38,
+    "turnover_rate": 0.809
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0035",
+    "date": "2024-03-01",
+    "qty": 486,
+    "unit_cost": 85.38,
+    "turnover_rate": 2.064
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0035",
+    "date": "2024-04-01",
+    "qty": 481,
+    "unit_cost": 85.38,
+    "turnover_rate": 0.812
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0035",
+    "date": "2024-05-01",
+    "qty": 504,
+    "unit_cost": 85.38,
+    "turnover_rate": 1.688
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0035",
+    "date": "2024-06-01",
+    "qty": 478,
+    "unit_cost": 85.38,
+    "turnover_rate": 1.684
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0035",
+    "date": "2024-07-01",
+    "qty": 467,
+    "unit_cost": 85.38,
+    "turnover_rate": 1.438
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0035",
+    "date": "2024-08-01",
+    "qty": 465,
+    "unit_cost": 85.38,
+    "turnover_rate": 1.149
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0035",
+    "date": "2024-09-01",
+    "qty": 498,
+    "unit_cost": 85.38,
+    "turnover_rate": 2.167
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0035",
+    "date": "2024-10-01",
+    "qty": 469,
+    "unit_cost": 85.38,
+    "turnover_rate": 1.495
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0035",
+    "date": "2024-11-01",
+    "qty": 515,
+    "unit_cost": 85.38,
+    "turnover_rate": 0.981
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0035",
+    "date": "2024-12-01",
+    "qty": 457,
+    "unit_cost": 85.38,
+    "turnover_rate": 1.524
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0035",
+    "date": "2025-01-01",
+    "qty": 514,
+    "unit_cost": 85.38,
+    "turnover_rate": 1.795
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0035",
+    "date": "2025-02-01",
+    "qty": 492,
+    "unit_cost": 85.38,
+    "turnover_rate": 1.244
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0035",
+    "date": "2025-03-01",
+    "qty": 487,
+    "unit_cost": 85.38,
+    "turnover_rate": 1.711
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0035",
+    "date": "2025-04-01",
+    "qty": 480,
+    "unit_cost": 85.38,
+    "turnover_rate": 1.76
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0035",
+    "date": "2025-05-01",
+    "qty": 494,
+    "unit_cost": 85.38,
+    "turnover_rate": 1.84
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0035",
+    "date": "2025-06-01",
+    "qty": 488,
+    "unit_cost": 85.38,
+    "turnover_rate": 2.486
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0035",
+    "date": "2025-07-01",
+    "qty": 505,
+    "unit_cost": 85.38,
+    "turnover_rate": 1.476
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0035",
+    "date": "2025-08-01",
+    "qty": 490,
+    "unit_cost": 85.38,
+    "turnover_rate": 1.146
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0035",
+    "date": "2025-09-01",
+    "qty": 491,
+    "unit_cost": 85.38,
+    "turnover_rate": 1.739
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0035",
+    "date": "2025-10-01",
+    "qty": 483,
+    "unit_cost": 85.38,
+    "turnover_rate": 1.748
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0035",
+    "date": "2025-11-01",
+    "qty": 488,
+    "unit_cost": 85.38,
+    "turnover_rate": 1.104
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0036",
+    "date": "2024-01-01",
+    "qty": 340,
+    "unit_cost": 452.83,
+    "turnover_rate": 1.321
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0036",
+    "date": "2024-01-01",
+    "qty": 310,
+    "unit_cost": 452.83,
+    "turnover_rate": 1.385
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0036",
+    "date": "2024-03-01",
+    "qty": 315,
+    "unit_cost": 452.83,
+    "turnover_rate": 1.999
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0036",
+    "date": "2024-03-01",
+    "qty": 347,
+    "unit_cost": 452.83,
+    "turnover_rate": 2.051
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0036",
+    "date": "2024-04-01",
+    "qty": 338,
+    "unit_cost": 452.83,
+    "turnover_rate": 2.253
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0036",
+    "date": "2024-05-01",
+    "qty": 333,
+    "unit_cost": 452.83,
+    "turnover_rate": 1.921
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0036",
+    "date": "2024-06-01",
+    "qty": 336,
+    "unit_cost": 452.83,
+    "turnover_rate": 2.071
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0036",
+    "date": "2024-07-01",
+    "qty": 341,
+    "unit_cost": 452.83,
+    "turnover_rate": 1.559
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0036",
+    "date": "2024-08-01",
+    "qty": 327,
+    "unit_cost": 452.83,
+    "turnover_rate": 1.989
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0036",
+    "date": "2024-09-01",
+    "qty": 324,
+    "unit_cost": 452.83,
+    "turnover_rate": 1.075
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0036",
+    "date": "2024-10-01",
+    "qty": 338,
+    "unit_cost": 452.83,
+    "turnover_rate": 1.165
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0036",
+    "date": "2024-11-01",
+    "qty": 321,
+    "unit_cost": 452.83,
+    "turnover_rate": 1.481
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0036",
+    "date": "2024-12-01",
+    "qty": 342,
+    "unit_cost": 452.83,
+    "turnover_rate": 1.375
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0036",
+    "date": "2025-01-01",
+    "qty": 310,
+    "unit_cost": 452.83,
+    "turnover_rate": 1.736
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0036",
+    "date": "2025-02-01",
+    "qty": 351,
+    "unit_cost": 452.83,
+    "turnover_rate": 1.985
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0036",
+    "date": "2025-03-01",
+    "qty": 343,
+    "unit_cost": 452.83,
+    "turnover_rate": 2.002
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0036",
+    "date": "2025-04-01",
+    "qty": 339,
+    "unit_cost": 452.83,
+    "turnover_rate": 1.073
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0036",
+    "date": "2025-05-01",
+    "qty": 350,
+    "unit_cost": 452.83,
+    "turnover_rate": 2.44
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0036",
+    "date": "2025-06-01",
+    "qty": 360,
+    "unit_cost": 452.83,
+    "turnover_rate": 0.809
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0036",
+    "date": "2025-07-01",
+    "qty": 351,
+    "unit_cost": 452.83,
+    "turnover_rate": 0.955
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0036",
+    "date": "2025-08-01",
+    "qty": 308,
+    "unit_cost": 452.83,
+    "turnover_rate": 1.047
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0036",
+    "date": "2025-09-01",
+    "qty": 316,
+    "unit_cost": 452.83,
+    "turnover_rate": 2.374
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0036",
+    "date": "2025-10-01",
+    "qty": 326,
+    "unit_cost": 452.83,
+    "turnover_rate": 1.54
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0036",
+    "date": "2025-11-01",
+    "qty": 336,
+    "unit_cost": 452.83,
+    "turnover_rate": 0.909
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0037",
+    "date": "2024-01-01",
+    "qty": 170,
+    "unit_cost": 309.25,
+    "turnover_rate": 2.032
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0037",
+    "date": "2024-01-01",
+    "qty": 152,
+    "unit_cost": 309.25,
+    "turnover_rate": 2.382
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0037",
+    "date": "2024-03-01",
+    "qty": 165,
+    "unit_cost": 309.25,
+    "turnover_rate": 1.481
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0037",
+    "date": "2024-03-01",
+    "qty": 151,
+    "unit_cost": 309.25,
+    "turnover_rate": 1.915
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0037",
+    "date": "2024-04-01",
+    "qty": 153,
+    "unit_cost": 309.25,
+    "turnover_rate": 1.287
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0037",
+    "date": "2024-05-01",
+    "qty": 141,
+    "unit_cost": 309.25,
+    "turnover_rate": 2.438
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0037",
+    "date": "2024-06-01",
+    "qty": 149,
+    "unit_cost": 309.25,
+    "turnover_rate": 0.898
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0037",
+    "date": "2024-07-01",
+    "qty": 142,
+    "unit_cost": 309.25,
+    "turnover_rate": 2.115
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0037",
+    "date": "2024-08-01",
+    "qty": 148,
+    "unit_cost": 309.25,
+    "turnover_rate": 1.098
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0037",
+    "date": "2024-09-01",
+    "qty": 178,
+    "unit_cost": 309.25,
+    "turnover_rate": 1.64
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0037",
+    "date": "2024-10-01",
+    "qty": 148,
+    "unit_cost": 309.25,
+    "turnover_rate": 0.818
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0037",
+    "date": "2024-11-01",
+    "qty": 202,
+    "unit_cost": 309.25,
+    "turnover_rate": 2.246
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0037",
+    "date": "2024-12-01",
+    "qty": 170,
+    "unit_cost": 309.25,
+    "turnover_rate": 2.382
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0037",
+    "date": "2025-01-01",
+    "qty": 165,
+    "unit_cost": 309.25,
+    "turnover_rate": 1.681
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0037",
+    "date": "2025-02-01",
+    "qty": 150,
+    "unit_cost": 309.25,
+    "turnover_rate": 1.131
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0037",
+    "date": "2025-03-01",
+    "qty": 173,
+    "unit_cost": 309.25,
+    "turnover_rate": 2.133
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0037",
+    "date": "2025-04-01",
+    "qty": 154,
+    "unit_cost": 309.25,
+    "turnover_rate": 1.668
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0037",
+    "date": "2025-05-01",
+    "qty": 164,
+    "unit_cost": 309.25,
+    "turnover_rate": 1.987
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0037",
+    "date": "2025-06-01",
+    "qty": 201,
+    "unit_cost": 309.25,
+    "turnover_rate": 1.846
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0037",
+    "date": "2025-07-01",
+    "qty": 161,
+    "unit_cost": 309.25,
+    "turnover_rate": 1.946
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0037",
+    "date": "2025-08-01",
+    "qty": 180,
+    "unit_cost": 309.25,
+    "turnover_rate": 1.412
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0037",
+    "date": "2025-09-01",
+    "qty": 152,
+    "unit_cost": 309.25,
+    "turnover_rate": 1.914
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0037",
+    "date": "2025-10-01",
+    "qty": 162,
+    "unit_cost": 309.25,
+    "turnover_rate": 2.459
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0037",
+    "date": "2025-11-01",
+    "qty": 189,
+    "unit_cost": 309.25,
+    "turnover_rate": 0.948
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0038",
+    "date": "2024-01-01",
+    "qty": 181,
+    "unit_cost": 628.14,
+    "turnover_rate": 1.472
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0038",
+    "date": "2024-01-01",
+    "qty": 218,
+    "unit_cost": 628.14,
+    "turnover_rate": 1.796
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0038",
+    "date": "2024-03-01",
+    "qty": 201,
+    "unit_cost": 628.14,
+    "turnover_rate": 1.68
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0038",
+    "date": "2024-03-01",
+    "qty": 182,
+    "unit_cost": 628.14,
+    "turnover_rate": 2.053
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0038",
+    "date": "2024-04-01",
+    "qty": 200,
+    "unit_cost": 628.14,
+    "turnover_rate": 0.917
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0038",
+    "date": "2024-05-01",
+    "qty": 205,
+    "unit_cost": 628.14,
+    "turnover_rate": 0.953
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0038",
+    "date": "2024-06-01",
+    "qty": 200,
+    "unit_cost": 628.14,
+    "turnover_rate": 1.284
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0038",
+    "date": "2024-07-01",
+    "qty": 167,
+    "unit_cost": 628.14,
+    "turnover_rate": 2.211
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0038",
+    "date": "2024-08-01",
+    "qty": 180,
+    "unit_cost": 628.14,
+    "turnover_rate": 2.356
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0038",
+    "date": "2024-09-01",
+    "qty": 187,
+    "unit_cost": 628.14,
+    "turnover_rate": 1.392
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0038",
+    "date": "2024-10-01",
+    "qty": 189,
+    "unit_cost": 628.14,
+    "turnover_rate": 2.438
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0038",
+    "date": "2024-11-01",
+    "qty": 200,
+    "unit_cost": 628.14,
+    "turnover_rate": 1.27
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0038",
+    "date": "2024-12-01",
+    "qty": 193,
+    "unit_cost": 628.14,
+    "turnover_rate": 1.831
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0038",
+    "date": "2025-01-01",
+    "qty": 170,
+    "unit_cost": 628.14,
+    "turnover_rate": 1.131
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0038",
+    "date": "2025-02-01",
+    "qty": 196,
+    "unit_cost": 628.14,
+    "turnover_rate": 2.381
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0038",
+    "date": "2025-03-01",
+    "qty": 200,
+    "unit_cost": 628.14,
+    "turnover_rate": 1.777
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0038",
+    "date": "2025-04-01",
+    "qty": 199,
+    "unit_cost": 628.14,
+    "turnover_rate": 1.244
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0038",
+    "date": "2025-05-01",
+    "qty": 207,
+    "unit_cost": 628.14,
+    "turnover_rate": 1.492
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0038",
+    "date": "2025-06-01",
+    "qty": 203,
+    "unit_cost": 628.14,
+    "turnover_rate": 0.981
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0038",
+    "date": "2025-07-01",
+    "qty": 197,
+    "unit_cost": 628.14,
+    "turnover_rate": 0.923
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0038",
+    "date": "2025-08-01",
+    "qty": 189,
+    "unit_cost": 628.14,
+    "turnover_rate": 1.3
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0038",
+    "date": "2025-09-01",
+    "qty": 166,
+    "unit_cost": 628.14,
+    "turnover_rate": 2.41
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0038",
+    "date": "2025-10-01",
+    "qty": 197,
+    "unit_cost": 628.14,
+    "turnover_rate": 2.165
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0038",
+    "date": "2025-11-01",
+    "qty": 194,
+    "unit_cost": 628.14,
+    "turnover_rate": 2.426
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0039",
+    "date": "2024-01-01",
+    "qty": 502,
+    "unit_cost": 439.56,
+    "turnover_rate": 1.225
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0039",
+    "date": "2024-01-01",
+    "qty": 478,
+    "unit_cost": 439.56,
+    "turnover_rate": 1.553
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0039",
+    "date": "2024-03-01",
+    "qty": 481,
+    "unit_cost": 439.56,
+    "turnover_rate": 1.441
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0039",
+    "date": "2024-03-01",
+    "qty": 513,
+    "unit_cost": 439.56,
+    "turnover_rate": 1.622
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0039",
+    "date": "2024-04-01",
+    "qty": 497,
+    "unit_cost": 439.56,
+    "turnover_rate": 1.214
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0039",
+    "date": "2024-05-01",
+    "qty": 508,
+    "unit_cost": 439.56,
+    "turnover_rate": 1.377
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0039",
+    "date": "2024-06-01",
+    "qty": 498,
+    "unit_cost": 439.56,
+    "turnover_rate": 2.119
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0039",
+    "date": "2024-07-01",
+    "qty": 498,
+    "unit_cost": 439.56,
+    "turnover_rate": 1.959
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0039",
+    "date": "2024-08-01",
+    "qty": 512,
+    "unit_cost": 439.56,
+    "turnover_rate": 2.324
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0039",
+    "date": "2024-09-01",
+    "qty": 490,
+    "unit_cost": 439.56,
+    "turnover_rate": 2.265
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0039",
+    "date": "2024-10-01",
+    "qty": 499,
+    "unit_cost": 439.56,
+    "turnover_rate": 1.619
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0039",
+    "date": "2024-11-01",
+    "qty": 491,
+    "unit_cost": 439.56,
+    "turnover_rate": 1.238
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0039",
+    "date": "2024-12-01",
+    "qty": 491,
+    "unit_cost": 439.56,
+    "turnover_rate": 1.451
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0039",
+    "date": "2025-01-01",
+    "qty": 493,
+    "unit_cost": 439.56,
+    "turnover_rate": 2.141
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0039",
+    "date": "2025-02-01",
+    "qty": 501,
+    "unit_cost": 439.56,
+    "turnover_rate": 1.175
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0039",
+    "date": "2025-03-01",
+    "qty": 490,
+    "unit_cost": 439.56,
+    "turnover_rate": 1.992
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0039",
+    "date": "2025-04-01",
+    "qty": 516,
+    "unit_cost": 439.56,
+    "turnover_rate": 2.16
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0039",
+    "date": "2025-05-01",
+    "qty": 484,
+    "unit_cost": 439.56,
+    "turnover_rate": 1.501
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0039",
+    "date": "2025-06-01",
+    "qty": 495,
+    "unit_cost": 439.56,
+    "turnover_rate": 1.4
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0039",
+    "date": "2025-07-01",
+    "qty": 491,
+    "unit_cost": 439.56,
+    "turnover_rate": 1.711
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0039",
+    "date": "2025-08-01",
+    "qty": 519,
+    "unit_cost": 439.56,
+    "turnover_rate": 1.991
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0039",
+    "date": "2025-09-01",
+    "qty": 500,
+    "unit_cost": 439.56,
+    "turnover_rate": 1.248
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0039",
+    "date": "2025-10-01",
+    "qty": 513,
+    "unit_cost": 439.56,
+    "turnover_rate": 1.288
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0039",
+    "date": "2025-11-01",
+    "qty": 475,
+    "unit_cost": 439.56,
+    "turnover_rate": 1.478
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0040",
+    "date": "2024-01-01",
+    "qty": 433,
+    "unit_cost": 660.44,
+    "turnover_rate": 0.169
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0040",
+    "date": "2024-01-01",
+    "qty": 432,
+    "unit_cost": 660.44,
+    "turnover_rate": 0.105
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0040",
+    "date": "2024-03-01",
+    "qty": 429,
+    "unit_cost": 660.44,
+    "turnover_rate": 0.117
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0040",
+    "date": "2024-03-01",
+    "qty": 427,
+    "unit_cost": 660.44,
+    "turnover_rate": 0.221
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0040",
+    "date": "2024-04-01",
+    "qty": 433,
+    "unit_cost": 660.44,
+    "turnover_rate": 0.175
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0040",
+    "date": "2024-05-01",
+    "qty": 433,
+    "unit_cost": 660.44,
+    "turnover_rate": 0.109
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0040",
+    "date": "2024-06-01",
+    "qty": 433,
+    "unit_cost": 660.44,
+    "turnover_rate": 0.268
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0040",
+    "date": "2024-07-01",
+    "qty": 433,
+    "unit_cost": 660.44,
+    "turnover_rate": 0.107
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0040",
+    "date": "2024-08-01",
+    "qty": 433,
+    "unit_cost": 660.44,
+    "turnover_rate": 0.259
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0040",
+    "date": "2024-09-01",
+    "qty": 424,
+    "unit_cost": 660.44,
+    "turnover_rate": 0.089
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0040",
+    "date": "2024-10-01",
+    "qty": 433,
+    "unit_cost": 660.44,
+    "turnover_rate": 0.08
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0040",
+    "date": "2024-11-01",
+    "qty": 433,
+    "unit_cost": 660.44,
+    "turnover_rate": 0.219
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0040",
+    "date": "2024-12-01",
+    "qty": 409,
+    "unit_cost": 660.44,
+    "turnover_rate": 0.173
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0040",
+    "date": "2025-01-01",
+    "qty": 433,
+    "unit_cost": 660.44,
+    "turnover_rate": 0.241
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0040",
+    "date": "2025-02-01",
+    "qty": 405,
+    "unit_cost": 660.44,
+    "turnover_rate": 0.289
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0040",
+    "date": "2025-03-01",
+    "qty": 418,
+    "unit_cost": 660.44,
+    "turnover_rate": 0.143
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0040",
+    "date": "2025-04-01",
+    "qty": 417,
+    "unit_cost": 660.44,
+    "turnover_rate": 0.173
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0040",
+    "date": "2025-05-01",
+    "qty": 399,
+    "unit_cost": 660.44,
+    "turnover_rate": 0.267
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0040",
+    "date": "2025-06-01",
+    "qty": 415,
+    "unit_cost": 660.44,
+    "turnover_rate": 0.096
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0040",
+    "date": "2025-07-01",
+    "qty": 395,
+    "unit_cost": 660.44,
+    "turnover_rate": 0.12
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0040",
+    "date": "2025-08-01",
+    "qty": 433,
+    "unit_cost": 660.44,
+    "turnover_rate": 0.238
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0040",
+    "date": "2025-09-01",
+    "qty": 433,
+    "unit_cost": 660.44,
+    "turnover_rate": 0.064
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0040",
+    "date": "2025-10-01",
+    "qty": 411,
+    "unit_cost": 660.44,
+    "turnover_rate": 0.17
+  },
+  {
+    "entity_rfc": "XYC176348KVZ",
+    "sku": "SKU-0040",
+    "date": "2025-11-01",
+    "qty": 387,
+    "unit_cost": 660.44,
+    "turnover_rate": 0.058
+  }
+]
