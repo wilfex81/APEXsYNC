@@ -1,0 +1,16 @@
+version: 2
+
+sources:
+  - name: core
+    schema: public
+    tables:
+      - name: core_transaction
+        identifier: core_transaction
+      - name: core_cashflowevent
+        identifier: core_cashflowevent
+      - name: core_inventorysnapshot
+        identifier: core_inventorysnapshot
+      - name: core_entity
+        identifier: core_entity
+      - name: core_category
+        identifier: core_category
