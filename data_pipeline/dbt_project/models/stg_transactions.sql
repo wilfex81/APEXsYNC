@@ -1,4 +1,4 @@
-with sources as (
+with source as (
 
     select * from  {{ source('core', 'core_transaction') }}
 
