@@ -38,3 +38,10 @@ class TaxRuleSetSerializer(serializers.Serializer):
     effective_date = serializers.DateField()
     status = serializers.CharField()
     published_gazette_ref = serializers.CharField()
+
+class ForeCastRequestSerializer(serializers.Serializer):
+    entity_id = serializers.UUIDField()
+    periods_months = serializers.IntegerField(default = 6, min_value = 1, max_value = 24)
+
+class AnomalyRequestSerializer(serializers.Serializer):
+    entity_id = serializers.UUIDField()
