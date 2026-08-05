@@ -4,9 +4,9 @@ from rest_framework import status
 from tax_engine.models import TaxRule, TaxRuleSet
 from tax_engine.services import get_active_rule_set, publish_rule_set
 from tax_engine.calculator import calculate_iva, calculate_isr
-from analytics_engine.data_access import get_inventory_turonver, get_monthly_cashflow
+from analytics_engine.data_access import get_inventory_turnover, get_monthly_cashflow
 from analytics_engine.forecasting import forecast_cashflow
-from analytics_engine.anomly import detect_cashflow_anomalies, detect_slow_moving_inventroy
+from analytics_engine.anomly import detect_cashflow_anomalies, detect_slow_moving_inventory
 from .serializers import (
     TaxRuleSetSerializer, TaxtCalculationRequestSerializer,
     TaxRuleSetCreateSerializer, ForeCastRequestSerializer,
@@ -92,8 +92,7 @@ class TaxRuleSetPublishView(APIView):
 
         return Response(TaxRuleSetSerializer(rule_set).data)
 
-
-class ForeCastVIew(APIView):
+class ForecastView(APIView):
     def post(self, request):
         req = ForeCastRequestSerializer(data=request.data)
         req.is_valid(raise_exception=True)
@@ -101,12 +100,12 @@ class ForeCastVIew(APIView):
 
         df = get_monthly_cashflow(data['entity_id'])
         if df.empty:
-            return Response({"error": "No cash flow data found in this entity."}, status=404)
+            return Response({"error": "No cash flow data found for this entity."}, status=404)
 
         try:
             result = forecast_cashflow(df, periods_months=data['periods_months'])
         except ValueError as e:
-            return Response({"error": str(e)}, status=404)
+            return Response({"error": str(e)}, status=400)
 
         return Response(result)
 
@@ -118,9 +117,9 @@ class AnomalyView(APIView):
         entity_id = req.validated_data['entity_id']
 
         cashflow_df = get_monthly_cashflow(entity_id)
-        inventory_df = get_inventory_turonver(entity_id)
+        inventory_df = get_inventory_turnover(entity_id)
 
         return Response({
             "cashflow_anomalies": detect_cashflow_anomalies(cashflow_df),
-            "slow_moving_inventory": detect_slow_moving_inventroy(inventory_df)
+            "slow_moving_inventory": detect_slow_moving_inventory(inventory_df),
         })

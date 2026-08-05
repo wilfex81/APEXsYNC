@@ -2,7 +2,7 @@ import pandas as pd
 from prophet import Prophet
 
 
-def  forecast_cashflow(df: pd.DataFrame, periods_months: int = 6) -> dict:
+def forecast_cashflow(df: pd.DataFrame, periods_months: int = 6) -> dict:
     """
     df expects columns: month, net_cashflow
     Returns forecast points + confidence intervals for the next N months.
@@ -11,7 +11,7 @@ def  forecast_cashflow(df: pd.DataFrame, periods_months: int = 6) -> dict:
         raise ValueError("Need at least 6 months of history to forecast reliably.")
 
     prophet_df = df.rename(columns={"month": "ds", "net_cashflow": "y"})[["ds", "y"]]
-    prophet_df["ds"] = pd.to_datetime(prophet_df["df"])
+    prophet_df["ds"] = pd.to_datetime(prophet_df["ds"])
 
     model = Prophet(
         yearly_seasonality=True,
@@ -21,7 +21,7 @@ def  forecast_cashflow(df: pd.DataFrame, periods_months: int = 6) -> dict:
     )
     model.fit(prophet_df)
 
-    future = model.make_future_dataframe(periods=periods_months, freq="M")
+    future = model.make_future_dataframe(periods=periods_months, freq="ME")
     forecast = model.predict(future)
 
     future_only = forecast[forecast["ds"] > prophet_df["ds"].max()]
@@ -35,6 +35,6 @@ def  forecast_cashflow(df: pd.DataFrame, periods_months: int = 6) -> dict:
                 "lower_bound": round(row["yhat_lower"], 2),
                 "upper_bound": round(row["yhat_upper"], 2),
             }
-            for _, row in future_only.itterrows()
+            for _, row in future_only.iterrows()
         ],
     }

@@ -14,7 +14,7 @@ def detect_cashflow_anomalies(df: pd.DataFrame, contamination: float = 0.1) -> l
     df["anomaly_score"] = model.fit_predict(features)
     df["is_anomaly"] = df["anomaly_score"] == -1
 
-    anomalies = df[df["is_anomlay"]]
+    anomalies = df[df["is_anomaly"]]
     return [
         {
             "month" : row["month"].isoformat() if hasattr(row["month"], "isoformat") else str(row["month"]),
@@ -25,7 +25,7 @@ def detect_cashflow_anomalies(df: pd.DataFrame, contamination: float = 0.1) -> l
     ]
 
 
-def detect_slow_moving_inventroy(df: pd.DataFrame, turnover_threshold: float = 0.4):
+def detect_slow_moving_inventory(df: pd.DataFrame, turnover_threshold: float = 0.4):
     """
     Flags SKUs whos average turnover rate is persistently below threshold- 
     this is the direct 'muda' (waste) signal for inventory: capital tied up
@@ -41,15 +41,15 @@ def detect_slow_moving_inventroy(df: pd.DataFrame, turnover_threshold: float = 0
     ).reset_index()
 
     flagged = summary[
-        (summary["avg_turnover"] < turnover_threshold) & (summary["months_tracked"])
+        (summary["avg_turnover_rate"] < turnover_threshold) & (summary["months_tracked"] > 0)
     ]
 
     return [
         {
             "sku": row["sku"],
-            "avg_turnover_rate": round(row["avg_turnover"], 3),
+            "avg_turnover_rate": round(row["avg_turnover_rate"], 3),
             "avg_inventory_value": round(row["avg_value"], 2),
-            "reason": f"Turnover rate {row['avg_turnover']:.3f} below threshold {turnover_threshold} — capital tied up in slow-moving stock",
+            "reason": f"Turnover rate {row['avg_turnover_rate']:.3f} below threshold {turnover_threshold} — capital tied up in slow-moving stock",
         }
         for _, row in flagged.iterrows()
     ]
