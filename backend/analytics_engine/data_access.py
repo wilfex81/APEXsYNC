@@ -28,3 +28,21 @@ def get_inventory_turnover(entity_id) -> pd.DataFrame:
         columns = [col[0] for col in cursor.description]
         rows = cursor.fetchall()
     return pd.DataFrame(rows, columns=columns)
+
+def get_duplicate_transactions(account_id=None) -> list:
+    query = """
+        SELECT transaction_id, account_id, transaction_date, amount, description,
+               dup_group_size, dup_rank
+        FROM dbt_apexsync.stg_transactions_deduped
+        WHERE is_likely_duplicate = true
+    """
+    params = []
+    if account_id:
+        query += " AND account_id = %s"
+        params.append(str(account_id))
+    query += " ORDER BY transaction_date, amount"
+
+    with connection.cursor() as cursor:
+        cursor.execute(query, params)
+        columns = [col[0] for col in cursor.description]
+        return [dict(zip(columns, row)) for row in cursor.fetchall()]
