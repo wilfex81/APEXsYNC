@@ -10,6 +10,8 @@ load_dotenv()
 
 DBT_PROJECT_DIR = os.getenv("DBT_PROJECT_DIR", "null")
 MAIN_PROJECT_DIR = os.getenv("MAIN_PROJECT_DIR", "null")
+APP_VENV_PYTHON = os.getenv("APP_VENV_PYTHON", "null")
+APP_VENV_DBT = os.getenv("APP_VENV_DBT", "null")
 
 default_args = {
     "owner": "apexsync",
@@ -28,17 +30,17 @@ with DAG(
 
     load_data = BashOperator(
         task_id="load_synthetic_data",
-        bash_command=f"cd {MAIN_PROJECT_DIR} && python manage.py load_synthetic_data",
+        bash_command=f"cd {MAIN_PROJECT_DIR} && {APP_VENV_PYTHON} manage.py load_synthetic_data",
     )
 
     dbt_run = BashOperator(
         task_id="dbt_run",
-        bash_command=f"cd {DBT_PROJECT_DIR} && dbt run",
+        bash_command=f"cd {DBT_PROJECT_DIR} && {APP_VENV_DBT} run",
     )
 
     dbt_test = BashOperator(
         task_id="dbt_test",
-        bash_command=f"cd {DBT_PROJECT_DIR} && dbt test",
+        bash_command=f"cd {DBT_PROJECT_DIR} && {APP_VENV_DBT} test",
     )
 
     load_data >> dbt_run >> dbt_test
