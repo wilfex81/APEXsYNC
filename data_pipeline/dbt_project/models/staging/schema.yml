@@ -23,3 +23,8 @@ models:
       - name: month
         tests:
           - not_null
+  - name: mart_profitability_flags
+    columns:
+      - name: category
+        tests:
+          - not_null
