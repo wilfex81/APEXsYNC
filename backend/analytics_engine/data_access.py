@@ -46,3 +46,20 @@ def get_duplicate_transactions(account_id=None) -> list:
         cursor.execute(query, params)
         columns = [col[0] for col in cursor.description]
         return [dict(zip(columns, row)) for row in cursor.fetchall()]
+
+def get_cost_spike_flags(account_id=None) -> list:
+    query = """
+        SELECT account_id, category, month, total_amount, rolling_6mo_avg,
+               pct_above_rolling_avg, flag_reason
+        FROM dbt_apexsync.mart_profitability_flags
+    """
+    params = []
+    if account_id:
+        query += " WHERE account_id = %s"
+        params.append(str(account_id))
+    query += " ORDER BY month DESC"
+
+    with connection.cursor() as cursor:
+        cursor.execute(query, params)
+        columns = [col[0] for col in cursor.description]
+        return [dict(zip(columns, row)) for row in cursor.fetchall()]
