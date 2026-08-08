@@ -2,7 +2,7 @@ from django.urls import path
 from .views import (
     TaxCalculateView, TaxRuleSetListCreateView, 
     TaxRuleSetPublishView, ForecastView,
-    AnomalyView
+    AnomalyView, NormalizationReviewView
 )
 
 urlpatterns = [
@@ -11,4 +11,5 @@ urlpatterns = [
     path('tax/rule-sets/<uuid:rule_set_id>/publish/', TaxRuleSetPublishView.as_view(), name='tax-rule-set-publish'),
     path('analytics/forecast/', ForecastView.as_view(), name='analytics-forecast'),
     path('analytics/anomalies/', AnomalyView.as_view(), name='analytics-anomalies'),
+    path('normalization/review/', NormalizationReviewView.as_view(), name='normalization-review'),
 ]

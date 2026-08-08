@@ -45,3 +45,6 @@ class ForeCastRequestSerializer(serializers.Serializer):
 
 class AnomalyRequestSerializer(serializers.Serializer):
     entity_id = serializers.UUIDField()
+
+class NormalizationReviewRequestSerializer(serializers.Serializer):
+    account_id = serializers.UUIDField(required=False)

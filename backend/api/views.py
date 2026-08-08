@@ -4,11 +4,11 @@ from rest_framework import status
 from tax_engine.models import TaxRule, TaxRuleSet
 from tax_engine.services import get_active_rule_set, publish_rule_set
 from tax_engine.calculator import calculate_iva, calculate_isr
-from analytics_engine.data_access import get_inventory_turnover, get_monthly_cashflow
+from analytics_engine.data_access import get_cost_spike_flags, get_duplicate_transactions, get_inventory_turnover, get_monthly_cashflow
 from analytics_engine.forecasting import forecast_cashflow
 from analytics_engine.anomly import detect_cashflow_anomalies, detect_slow_moving_inventory
 from .serializers import (
-    TaxRuleSetSerializer, TaxtCalculationRequestSerializer,
+    NormalizationReviewRequestSerializer, TaxRuleSetSerializer, TaxtCalculationRequestSerializer,
     TaxRuleSetCreateSerializer, ForeCastRequestSerializer,
     TaxRuleSerializer, AnomalyRequestSerializer
     )
@@ -122,4 +122,15 @@ class AnomalyView(APIView):
         return Response({
             "cashflow_anomalies": detect_cashflow_anomalies(cashflow_df),
             "slow_moving_inventory": detect_slow_moving_inventory(inventory_df),
+        })
+
+class NormalizationReviewView(APIView):
+    def get(self, request):
+        req = NormalizationReviewRequestSerializer(data = request.query_params)
+        req.is_valid(raise_exception=True)
+        account_id = req.validated_data.get('account_id')
+
+        return Response({
+            "likely_duplicates": get_duplicate_transactions(account_id),
+            "cost_spike_flags": get_cost_spike_flags(account_id)
         })
