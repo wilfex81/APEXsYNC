@@ -49,6 +49,7 @@ INSTALLED_APPS = [
     'analytics_engine',
     'normalization',
     'api',
+    'drf_spectacular',
 ]
 
 MIDDLEWARE = [
@@ -121,6 +122,15 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
+REST_FRAMEWORK = {
+    'DEFAULT_SCHEMA_CLASS': 'drf_spectacular.openapi.AutoSchema',
+}
+
+SPECTACULAR_SETTINGS = {
+    'TITLE': 'APEXsYNC API',
+    'DESCRIPTION': 'Financial management system: predictive analytics, data normalization, and dynamic tax compliance for Mexican SMEs.',
+    'VERSION': '1.0.0',
+}
 
 # Internationalization
 # https://docs.djangoproject.com/en/5.2/topics/i18n/
